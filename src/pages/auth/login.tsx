@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { Mail, Lock } from "lucide-react";
+import { Link } from "react-router";
 
 export default function LoginPage() {
   const [email, setEmail] = useState("");
@@ -57,12 +58,14 @@ export default function LoginPage() {
             </div>
 
             {/* Button */}
-            <button
-              type="submit"
-              className="w-full py-2 bg-sky-500 text-white rounded-full font-medium hover:bg-sky-600 transition"
-            >
-              SIGN IN
-            </button>
+            <Link to="/dashboard">
+              <button
+                type="submit"
+                className="w-full bg-sky-500 text-white py-2 rounded-md hover:bg-sky-600 transition"
+              >
+                SIGN IN
+              </button>
+            </Link>
           </form>
         </div>
       </div>
@@ -74,9 +77,11 @@ export default function LoginPage() {
           <p className="mt-3 mb-6 text-white/90">
             Enter your personal details and start journey with us
           </p>
-          <button className="px-8 py-2 border border-white rounded-full hover:bg-white hover:text-sky-500 transition">
-            SIGN UP
-          </button>
+          <Link to="/dashboard">
+            <button className="px-8 py-2 border border-white rounded-full hover:bg-white hover:text-sky-500 transition">
+              SIGN UP
+            </button>
+          </Link>
         </div>
       </div>
     </div>
