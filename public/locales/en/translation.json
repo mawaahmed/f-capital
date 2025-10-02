@@ -1,0 +1,1562 @@
+{
+  "landingpage": {
+    "title": "Diisty, the digital solution that speeds up distribution for African industrial companies.",
+    "description": "By simplifying order taking, reducing processing times, and streamlining logistics, it enables faster cash collection. The result: less waiting to get paid, more sales, and a significantly shorter cash flow cycle.",
+    "cta": "Talk to a sales representative"
+  },
+  "features": {
+    "sectionTitle": "Our technology in 3 pillars",
+    "sectionDescription": "Features designed to strengthen collaboration and streamline the management of orders and payments between the central office and its members.",
+
+    "cards": [
+      {
+        "title": "B2B Cloud tailored to local realities",
+        "description": "Give your partners 24/7 access to your product catalog, pricing, payment options, and contractual terms."
+      },
+      {
+        "title": "Frictionless automation",
+        "description": "Stop wasting time with manual follow-ups. Diisty automatically sends payment reminders via SMS, WhatsApp, and email. It’s like having a sales representative and an account manager integrated into your team, without the cost of hiring."
+      },
+      {
+        "title": "Global and instant view of operations",
+        "description": "The general manager can visualize all operations in real time: orders, payments, deliveries, and customer interactions. This global view makes it easier to make informed decisions to effectively steer the company."
+      }
+    ],
+
+    "blocks": [
+      {
+        "title": "Grouped order management",
+        "description": "Centralize and optimize grouped orders for your members, reducing costs."
+      },
+      {
+        "title": "Dynamic pricing",
+        "description": "Manage multiple pricing grids based on your members' profiles."
+      },
+      {
+        "title": "Dedicated ordering space for central members",
+        "description": "Provide your members with a personalized space to place their orders easily."
+      }
+    ]
+  },
+  "cta": {
+    "description": "Discover how our platform simplifies relationship management",
+    "title": "Revolutionize your purchasing today",
+    "waitlist": "Join the waitlist",
+    "contact": "Talk to a sales representative"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Find quick answers to your questions to make the most of the benefits offered by Diisty.",
+    "q1": "What is Diisty and how does it work?",
+    "a1": "Diisty is a cloud-based platform that allows purchasing groups to easily manage their relationships with members. With this online tool, each member has a dedicated space to place orders, track deliveries, and manage payments with ease.",
+    "q2": "How does Diisty help optimize purchasing for my members?",
+    "a2": "Diisty centralizes your members’ orders in real time, allowing you to anticipate their needs, negotiate competitive prices, and tailor conditions to each profile, all while reducing costs and optimizing purchasing management.",
+    "q3": "Can I customize prices and payment terms for my members?",
+    "a3": "Yes, Diisty allows you to create flexible pricing grids and custom payment plans for each member. You can adapt prices and payment terms according to your members’ profiles.",
+    "q4": "How does Diisty strengthen collaboration between the central office and its members?",
+    "a4": "Yes, Diisty allows you to create flexible pricing grids and custom payment plans for each member. You can adapt prices and payment terms according to your members’ profiles."
+  },
+  "contact": {
+    "title": "Try the Beta version",
+    "description": "Please fill in the form below and we’ll get back to you as soon as possible.",
+    "nom": "Name",
+    "entreprise": "Company",
+    "email": "Email",
+    "telephone": "Phone",
+    "message": "Message",
+    "submit": "Send Message",
+    "success": "Message sent successfully!",
+    "error": "An error occurred while sending the message.",
+    "error_required": "Please fill in all required fields.",
+    "required": "*",
+    "atouttitle1": "An unbeatable return on investment",
+    "description1": "Diisty costs 10 times less than an employee… yet accomplishes the work of more than 10 people. Payment reminders, sales tracking, and much more are fully automated — with no administrative burden.",
+    "highlight1": "10x cheaper · 10x more productive",
+    "atouttitle2": "Extreme ease of use",
+    "description2": "More intuitive than WhatsApp. No technical skills required: we have over-simplified the user experience so that even a newcomer can be up and running in just a few minutes.",
+    "highlight2": "More intuitive than WhatsApp",
+    "atouttitle3": "Available everywhere, anytime",
+    "description3": "Your teams and partners can work, order, and pay wherever they are, without any complex installation.",
+    "highlight3": "100% multi-platform",
+    "atout": "Our strengths",
+    "paragraph": "What makes Diisty the most cost-effective and efficient solution on the market"
+  },
+  "footer": {
+    "links": {
+      "home": "Home",
+      "atout": "Our Strengths",
+      "products": "Our Products",
+      "faq": "FAQ",
+      "contact": "Contact"
+    },
+    "newsletter": {
+      "title": "Get Diisty's latest news",
+      "placeholder": "Example@gmail.com",
+      "button": "Subscribe",
+      "error_required": "Please fill in all required fields.",
+      "success": "Form submitted successfully!",
+      "error": "An error occurred while sending the form."
+    },
+    "bottom": {
+      "rights": "@2025.Diisty. All rights reserved",
+      "privacy": "Privacy Policy",
+      "terms": "Terms and Conditions"
+    }
+  },
+
+  "statCard": {
+    "currentOrders": "Current Orders",
+    "totalExpenses": "Total Expenses (FCFA)",
+    "outstandingInvoices": "Outstanding Invoices",
+    "vsLastMonth": "{{value}} Vs last month"
+  },
+
+  "dashboard": {
+    "title": "Welcome, {{name}}",
+    "description": "Discover how our platform simplifies relationship management",
+    "Dashboard": "Dashboard",
+    "Product Catalog": "Product Catalog",
+    "Order Tracking": "Order Tracking",
+    "Billing": "Billing",
+    "Capture": "Capture",
+    "Proposal": "Proposal",
+    "Prompts": "Prompts",
+    "Active Proposals": "Active Proposals",
+    "Archived": "Archived",
+    "Settings": "Settings",
+    "Get Help": "Get Help",
+    "Search": "Search",
+    "Data Library": "Data Library",
+    "Reports": "Reports",
+    "Word Assistant": "Word Assistant"
+  },
+
+  "table": {
+    "title": "Recent purchases",
+    "status": "Status",
+    "search": "Search...",
+    "orderId": "Order ID",
+    "date": "Date of Creation",
+    "amount": "Amount (FCFA)",
+    "actions": "Quick Actions",
+    "detailsHint": "Click here to go to the order details page",
+    "moreInfoHint": "Click here for more information",
+    "orderTracking": "Order Tracking",
+    "projectId": "Project ID",
+    "creationDate": "Creation Date",
+    "cost": "Project Cost",
+    "deliveryStage": "Delivery Stage:",
+    "deliveredToLocation": "Delivered to Pickup Location",
+    "route": "Route:",
+    "carrierContact": "Carrier Contact:",
+    "seeMore": "See More",
+    "seeLess": "See Less",
+    "reset": "Reset"
+  },
+  "status": {
+    "preorder": "Pre-order",
+    "inpreparation": "In Preparation",
+    "intransit": "In Transit",
+    "delivered": "Delivered"
+  },
+  "product": {
+    "name": "Fresh Tomatoes",
+    "descriptiontomate": "Red tomatoes grown locally",
+    "paragraph": "Paragraph example",
+    "title": "Product Catalog",
+    "description": "Explore and manage your product catalog with ease.",
+    "category": "Product Category",
+    "searchPlaceholder": "Search...",
+    "reset": "Reset",
+    "availableQuantity": "{{quantity}} {{unit}} available",
+    "pricePerKg": "{{price}} Fcfa/{{unit}}",
+    "moq": "MOQ: {{moq}} {{unit}}",
+    "add": "Add to Cart",
+    "added": "Added",
+    "dialog.title": "Set Payment Plan",
+    "dialog.description": "Before finalizing your pre-order, please choose the payment plan that works best for you.",
+    "cart.title": "My Cart",
+    "cart.empty.title": "There are no products in your cart yet.",
+    "empty.subtitle": "Select items you desire on the left.",
+    "product.quantityPrice": "{{quantity}} x {{price}} Fcfa",
+    "actions.decrease": "Decrease quantity",
+    "actions.remove": "Remove product",
+    "total.label": "Total Price",
+    "preorder.button": "Pre-order Now",
+    "instructions.label": "Special Instructions:",
+    "instructions.description": "Given the perishable nature of our products, availability may vary. You will receive an availability update shortly after your pre-order confirmation."
+  },
+  "order": {
+    "title": "Order Tracking",
+    "description": "Manage your orders, track payments, and explore supplier catalogs effortlessly."
+  },
+  "billing": {
+    "title": "Billing",
+    "description": "Manage invoices, track payments, and review transaction history easily.",
+    "balance": "Current Balance",
+    "note": "This is the outstanding amount due for confirmed orders."
+  },
+  "purchaseTable": {
+    "title": "Recent purchases",
+    "orderId": "Order ID",
+    "orderDate": "Order Date",
+    "amount": "Amount (FCFA)",
+    "method": "Payment Method",
+    "status": "Payment Status",
+    "seeMore": "See More",
+    "seeLess": "See Less",
+    "statusLabels": {
+      "preparing": "Preparing payment",
+      "pending": "Pending Payment",
+      "received": "Payment Received"
+    }
+  },
+  "preorder": {
+    "preorderdetails": "Pre-order Details",
+    "back": "Order Details",
+    "message": "Thank you for placing a pre-order. Please note that no invoice will be generated at this stage. We will notify you with product availability and any updates.",
+    "title": "Order #978-1-111-95973-9",
+    "status": "Pending Approval",
+    "export": "Export as PDF",
+    "duplicate": "Duplicate Order",
+    "client": "Client and Order",
+    "edit": "Edit",
+    "customerName": "Customer Name",
+    "phoneNumber": "Phone Number",
+    "email": "Email Address",
+    "address": "Mailing Address",
+    "paymentMethod": "Payment Method",
+    "deliveryAddress": "Delivery Address",
+    "recipientName": "Recipient Name",
+    "fullAddress": "Full Address",
+    "instructions": "Special Instructions",
+    "items": "Ordered Items",
+    "product": "Product Name",
+    "quantity": "Quantity Ordered",
+    "unitPrice": "Unit Price (Fcfa)",
+    "totalPrice": "Total Price (Fcfa)",
+    "subtotal": "Subtotal",
+    "deliveryFee": "Delivery Fee",
+    "vat": "TVA (19.25%)",
+    "total": "Total :",
+    "virement": "Bank transfer",
+    "location": "We are located on the 3rd floor, apartment 12B"
+  },
+  "detailsproduct": {
+    "back": "Back to product catalog"
+  },
+  "infos": {
+    "notFound": "Product not found.",
+    "inStock": "{{count}} in stock",
+    "moq": "MOQ: {{moq}}",
+    "pricePerKg": "{{price}} FCFA / kg",
+    "quantityUnit": "Quantity (Unit)",
+    "unitPrice": "Unit Price (FCFA)",
+    "addToCart": "Add to Cart",
+    "added": "Added",
+    "addLabel": "Add {{productName}} to cart",
+    "quantity": "Quantity (Unit)",
+    "price": "Price"
+  },
+  "payment": {
+    "order": "Order",
+    "dueDate": "Due Date",
+    "amountDue": "Amount Due",
+    "paymentPlan": "Payment Plan"
+  },
+  "settings": {
+    "accountInfo": "Account Information",
+    "businessInfo": "Business Information",
+    "preferences": "Preferences",
+    "paymentDetails": "Payment details",
+    "security": "Security",
+    "changeAvatar": "Change Avatar",
+    "saveChanges": "Save Changes",
+    "editAccountInfo": "Edit Account Information",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "fullName": "Full Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "address": "Address",
+    "business": "Business Information",
+    "payment": "Payment Details",
+    "place": "Douala Fresh Produce",
+    "account": "Account Settings",
+    "businessname": "Business Name",
+    "emailaddress": "Email Address",
+    "businesscategory": "Business Category",
+    "foodbeverage": "Food & Beverage",
+    "retail": "Retail",
+    "wholesale": "Wholesale",
+    "agribusiness": "Agribusiness",
+    "contact": "Contact Person",
+    "office": "Office Address",
+    "task": "Task Identification Number (Optional)",
+    "switch1": "Account Information",
+    "switch2": "Preferences",
+    "switch3": "Security",
+    "cancel": "Cancel"
+  },
+  "preferences": {
+    "changeAvatar": "Change Avatar",
+    "saveChanges": "Save Changes",
+    "preferences": "Preferences",
+    "language": "Language",
+    "notificationSettings": "Notification Settings",
+    "notifications.order": "Order Updates",
+    "notifications.billing": "Billing Reminders",
+    "notifications.promos": "Promotions & Updates"
+  },
+  "security": {
+    "security": "Security",
+    "authentication": "Two-Factor Authentication",
+    "password": "Password",
+    "currentPassword": "Current Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm Password"
+  },
+  "paymentPlan": {
+    "title": "Select Payment Plan",
+    "cancel": "Cancel",
+    "confirm": "Confirm and Complete Pre-order",
+    "options": {
+      "prepayment": {
+        "label": "100% Prepayment",
+        "description": "Full payment is made before the goods are delivered."
+      },
+      "cod": {
+        "label": "Cash on Delivery (COD)",
+        "description": "Payment is collected directly upon the delivery of goods."
+      },
+      "installments": {
+        "label": "Monthly Installments",
+        "description": "Payments are divided into equal amounts made monthly until the total is covered."
+      },
+      "30days": {
+        "label": "30-Day Payment Terms",
+        "description": "The total payment is due within 30 days from the invoice date."
+      },
+      "60days": {
+        "label": "60-Day Payment Terms",
+        "description": "Payment must be completed within 60 days from the date of invoicing."
+      },
+      "deferred": {
+        "label": "Deferred Payment",
+        "description": "Payment is scheduled for a future date agreed upon during the transaction."
+      }
+    }
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "productManagement": "Product Management",
+    "productList": "Product List",
+    "productClassification": "Product Classification",
+    "orders": "Orders",
+    "orderList": "Orders",
+    "billing": "Billing and Accounting",
+    "financialOverview": "Financial Overview",
+    "clientManagement": "Client Management",
+    "clientCategory": "Client Category",
+    "clientList": "Client List",
+    "userManagement": "User Management",
+    "heatmap": "Heatmap",
+    "reportsAndStats": "Reports and Statistics",
+    "notifications": "Notifications",
+    "accountSettings": "Account & Settings",
+    "helpSupport": "Help & Support",
+    "documents": {
+      "dataLibrary": "Data Library",
+      "reports": "Reports",
+      "wordAssistant": "Word Assistant"
+    },
+    "clouds": {
+      "capture": "Capture",
+      "proposal": "Proposal",
+      "prompts": "Prompts",
+      "activeProposals": "Active Proposals",
+      "archived": "Archived"
+    },
+    "companyLogoAlt": "Company Logo"
+  },
+  "distrib": {
+    "title": "Welcome, {{name}}",
+    "description": "Track orders, manage products, and grow your business effortlessly.",
+    "stats": {
+      "totalOrdersThisMonth": "Total Orders This Month",
+      "pendingPreorders": "Pending Pre-orders",
+      "confirmedOrders": "Confirmed Orders",
+      "revenueGenerated": "Revenue Generated (Fcfa)",
+      "vsLastMonth": "vs last month",
+      "totalProducts": "Total products",
+      "totalClients": "Total clients",
+      "totalOrders": "Total orders",
+      "totalNotifications": "Total notifications"
+    }
+  },
+  "chart": {
+    "title": "Revenue Trends",
+    "seeAll": "See All the Statistics",
+    "month": "Month"
+  },
+  "months": {
+    "january": "January",
+    "february": "February",
+    "march": "March",
+    "april": "April",
+    "may": "May",
+    "june": "June"
+  },
+  "topSelling": {
+    "title": "Top Selling Products",
+    "button": "See All Products",
+    "available": "Available",
+    "unavailable": "Unavailable",
+    "sold": "{{count}} Kg sold",
+    "remaining": "{{count}} Kg remaining",
+    "products": {
+      "Tomatoes": "Tomatoes",
+      "Rice (5kg Bag)": "Rice (5kg Bag)",
+      "Organic Carrots": "Organic Carrots",
+      "Wheat Flour (50kg Sack)": "Wheat Flour (50kg Sack)"
+    }
+  },
+  "filters": {
+    "btn": "Product Classification",
+    "dialog": "Filters for: Product Classification",
+    "dialogdescription": "View results based on the filter you select here.",
+    "all": "All",
+    "available": "Available",
+    "unavailable": "Unavailable",
+    "search": "Search...",
+    "btncreate": "Create a Product",
+    "product": "Products List",
+    "productcode": "Product Code",
+    "productname": "Product Name",
+    "productquantity": "Available Quantity",
+    "productavailability": "Availability",
+    "productprice": "Price Range (Fcfa)",
+    "productstatus": "Status",
+    "active": "Active",
+    "inactive": "Inactive",
+    "btnedit": "Edit Product",
+    "btnimport": "Import Products",
+    "btndelete": "Delete Product",
+    "productnametable": {
+      "Whole Milk (1L)": "Whole Milk (1L)",
+      "Fresh Tomatoes": "Fresh Tomatoes",
+      "Canned Fish": "Canned Fish"
+    }
+  },
+  "modal": {
+    "delete.title": "Confirm Deletion",
+    "delete.description": "Are you sure you want to delete the product {{productName}}? This action can not be undone.",
+    "delete.cancel": "Cancel",
+    "delete.confirm": "Delete",
+    "delete.cancel.aria": "Cancel deletion of {{productName}}",
+    "delete.confirm.aria": "Confirm deletion of {{productName}}"
+  },
+  "editproduct": {
+    "backToList": "Back to product list",
+    "title": "Edit Product",
+    "descriptionSectionTitle": "Description",
+    "titleLabel": "Title",
+    "defaultTitle": "Lays Classic Chips 150g",
+    "productDescriptionLabel": "Product Description",
+    "charactersLeft": "characters left",
+    "pricingSectionTitle": "Pricing (Fcfa)",
+    "pricingSectionNote": "Please enter the unit price of the product for each registered customer category.",
+    "viewSavedCategories": "View saved categories?",
+    "quantityFrom": "Quantity From (Unit)",
+    "quantityTo": "Quantity To (Unit)",
+    "unitPrice": "Unit Price",
+    "btn": "Add Tier",
+    "productIdTitle": "Product ID",
+    "productTypeLabel": "Product Type",
+    "productTypeValue": "Food",
+    "codeLabel": "Code:",
+    "productOriginCodeLabel": "Product Origin Code",
+    "productOriginCodeValue": "00",
+    "originCodeHint": "'00' for imported products\n'50' for local products",
+    "productCategoryLabel": "Product Category",
+    "productCategoryPlaceholder": "Choose product Category",
+    "productSubcategoryLabel": "Product Subcategory",
+    "productSubcategoryPlaceholder": "Choose product Subcategory",
+    "finalCodeLabel": "Final code",
+    "status": "Status",
+    "active": "Active",
+    "inactive": "Inactive",
+    "btnDiscard": "Discard",
+    "btnSave": "Save Changes",
+    "stock": "Stock Settings",
+    "available": "Available Quantity",
+    "moqTitle": "MOQ",
+    "moqDescription": "Please enter the Minimum Order Quantity (MOQ) for the product for each registered customer category.",
+    "moqViewSavedCategories": "View saved categories?",
+    "img": "Product Image",
+    "upload": "Click to upload",
+    "dragimage": "or drag and drop",
+    "categoryhotel": "Hotel",
+    "categoryindividual": "Individual",
+    "categoryrestaurant": "Restaurant",
+    "categorysupermarket": "Supermarket"
+  },
+  "productclassification": {
+    "title": "Product Classification",
+    "description": "Organize your products into types, categories, and subcategories for better management.",
+    "create": "Create a Product Classification",
+    "title1": "Product Classification",
+    "description1": "Define the structure and hierarchy of your products for better classification and tracking.",
+    "producttype": "Product Type",
+    "productcategory": "Product Category",
+    "productsubcategory": "Product Subcategory",
+    "uniqueproduct": "Unique Product",
+    "cancel": "Cancel",
+    "createbutton": "Create",
+    "save": "Save",
+    "dialogdescription": "Define details for your {{type}}.",
+    "producttypename": "Product Type Name",
+    "producttypecode": "Product Type Code",
+    "producttypedescription": "Product Type Description",
+    "producttypeincludes": "Product Categories Includes",
+    "productcategoryname": "Product Category Name",
+    "productcategorycode": "Product Category Code",
+    "productcategorydescription": "Product Category Description",
+    "productsubcategoryinclude": "Product Subcategories Include",
+    "productcategoryparenttype": "Parent Product Type Code",
+    "subcategoryname": "Product Subcategory Name",
+    "subcategorycode": "Product Subcategory Code",
+    "subcategorydescription": "Product Subcategory Description",
+    "subcategoryparentcategory": "Subcategory Parent Category",
+    "subcategoryproductinclude": "Unique Product Include",
+    "subcategoryparentproductcategory": "Parent Product Category Code",
+    "uniquename": "Product Name",
+    "uniqueid": "Product ID",
+    "uniquebelongs": "Belongs To Subcategory",
+    "productType": "Product Type",
+    "category": "Category",
+    "subcategory": "Subcategory",
+    "uniqueProduct": "Unique Product",
+    "general": "General",
+    "details": "{{tab}} Details",
+    "searchPlaceholder": "Search by type name and code",
+    "categoriesLabel": "{{count}} categories",
+    "noResults": "No results found.",
+    "numberOf": "Number of {{tab}}:",
+    "totalCount": "{{count, pad}}",
+    "productType.beverages": "Beverages",
+    "productType.food": "Food",
+    "productType.electronics": "Electronics",
+    "productType.clothing": "Clothing",
+    "productType.furniture": "Furniture",
+    "productType.health": "Health",
+    "productType.toys": "Toys",
+    "productType.beauty": "Beauty",
+    "productType.beautyAndPersonalCare": "Beauty & Personal Care",
+    "category.a": "Category A",
+    "category.b": "Category B",
+    "category.c": "Category C",
+    "subcategory.x": "Subcategory X",
+    "subcategory.y": "Subcategory Y",
+    "uniqueProduct.001": "Product 001",
+    "uniqueProduct.002": "Product 002"
+  },
+  "orderpage": {
+    "title": "Order List",
+    "description": "Manage your orders, track payments, and explore supplier catalogs effortlessly.",
+    "create": "Create an Order",
+    "amount": "Amount",
+    "search": "Search...",
+    "date": "Pre-order Date",
+    "customername": "Customer Name",
+    "items": "Items",
+    "totalprice": "Total Price (FCFA)",
+    "status": "Order Status",
+    "quickactions": "Quick Actions",
+    "orderid": "Order ID",
+    "orderlist": "Order List",
+    "searchplaceholder": "Search...",
+    "export": "Export Orders",
+    "addnew": "Add New Order",
+    "details": "Order Details",
+    "tracking": "Order Tracking",
+    "projectid": "Project ID:",
+    "creationdate": "Creation Date:",
+    "cost": "Project Cost:",
+    "trackingstatus": "Status:",
+    "deliverystage": "Delivery Stage:",
+    "deliveryinfo": "Delivered to Pickup Location",
+    "route": "Route:",
+    "contact": "Carrier Contact:",
+    "seemore": "See More",
+    "seeless": "See Less",
+    "orderList": "Back to order List"
+  },
+  "orderstatus": {
+    "status": {
+      "InPreparation": "In Preparation",
+      "InTransit": "In transit",
+      "Pre-order": "Pre-order",
+      "Delivered": "Delivered"
+    }
+  },
+  "billingaccounting": {
+    "title": "Financial Overview",
+    "description": "Track invoices, payments, expenses, and cash flow in one place.",
+    "manage": "Manage expense category"
+  },
+  "tabs": {
+    "expenses": "Expenses",
+    "treasury": "Treasury",
+    "reports": "Reports"
+  },
+  "expense": {
+    "placeholder": "Filter by category",
+    "category.adminFees": "Administrative Fees",
+    "category.reimbursements": "Reimbursements",
+    "category.storage": "Storage Fees",
+    "category.exceptional": "Exceptional Expenses",
+    "placeholder.category": "Category",
+    "placeholder.date": "Date",
+    "placeholder.amountRange": "Amount Range",
+    "button.reset": "Reset",
+    "button.export": "Export to Excel",
+    "button.addNew": "+ Add New Expense",
+    "table.title": "Expense List",
+    "table.date": "Date",
+    "table.category": "Category",
+    "table.description": "Description",
+    "table.amount": "Amount (FCFA)",
+    "table.attachment": "Attachment",
+    "table.actions": "Actions",
+    "pagination.next": "Next »"
+  },
+  "expense1": {
+    "category": {
+      "adminFees": "Administrative Fees",
+      "reimbursements": "Reimbursements",
+      "storage": "Storage Fees",
+      "exceptional": "Exceptional Expenses"
+    }
+  },
+  "clientCategory": {
+    "title": "Client Category",
+    "description": "Define client categories and tailor pricing for seamless business operations.",
+    "informationTitle": "Client Category Information",
+    "informationDescription": "Click on any category below. Each of them has its own pricing structure displayed upon selecting it.",
+    "clients": "{{count}} Clients",
+    "viewPrices": "View Products Prices",
+    "productsTitle": "Products Price",
+    "productsDescription": "Consult below the product prices applicable to the clients that are from {{category}} Category.",
+    "lockPrices": "Lock Prices",
+    "editPrices": "Edit Prices",
+    "ok": "OK",
+    "addCategory": "Add New Category",
+    "addCategoryDescription": "Please enter the title of the category you wish to create.",
+    "cancel": "Cancel",
+    "save": "Save",
+    "note": "Note: The prices of products will vary depending on the client category. For example, products will have different pricing for restaurants, hotels, and individuals etc.",
+    "categories.restaurant": "Restaurant",
+    "categories.individual": "Individual",
+    "categories.hotel": "Hotel",
+    "categories.retailer": "Retailer",
+    "categories.agribusiness": "Agribusiness",
+    "categories.distributor": "Distributor",
+    "categories.gasStation": "Gas Station"
+  },
+  "clientlist": {
+    "title": "Client List",
+    "description": "Manage your clients, track payments, and explore supplier catalogs effortlessly.",
+    "all": "All",
+    "restaurant": "Restaurant",
+    "individual": "Individual",
+    "retailer": "Retailer",
+    "hotel": "Hotel",
+    "active": "Active",
+    "inactive": "Inactive",
+    "suspended": "Suspended",
+    "reset": "Reset",
+    "searchPlaceholder": "Search by client name or Client ID",
+    "createRetailer": "Create Retailer Account",
+    "userType": "User Type",
+    "userTypeDescription": "Please indicate what type of user you would like to add.",
+    "clientList": "Client List",
+    "clientId": "Client ID",
+    "clientName": "Client Name",
+    "category": "Category",
+    "contactInfo": "Contact Information",
+    "status": "Status",
+    "address": "Address",
+    "actions": "Quick Actions",
+    "lastPurchase": "Last Purchase",
+    "personAccount": "Person Account",
+    "personAccountDesc": "A single type of user",
+    "companyAccount": "Company Account",
+    "companyAccountDesc": "Multiple account use",
+    "cancel": "Cancel",
+    "continue": "Continue",
+    "createRetailerAccount": "Create Retailer Account",
+    "btn": "Create Retailer Account"
+  },
+  "usermanagement": {
+    "userManagementTitle": "User Management",
+    "userManagementDescription": "Manage user roles and permissions",
+    "userRolePlaceholder": "User Role",
+    "reset": "Reset",
+    "roleDescription": "Role Description",
+    "roleDescriptionsTitle": "Role Descriptions",
+    "roleDescriptionsDesc": "Learn about the different roles and their permissions within the platform.",
+    "addNewUser": "+ Add New User",
+    "inviteNewUserTitle": "Invite a New User",
+    "inviteNewUserDesc": "Enter the user’s details and assign a role. An invitation email will be sent once you confirm the invitation.",
+    "assignRoleTitle": "Assign Role",
+    "columnName": "Name",
+    "columnEmail": "Email",
+    "columnRole": "Role",
+    "editUserRoleTitle": "Edit User Role",
+    "editUserRoleDesc": "Update the role assigned to this user. Changes will take effect immediately.",
+    "removeUserAccessTitle": "Remove User Access",
+    "removeUserAccessDesc": "Are you sure you want to remove this user? They will lose access to the platform.",
+    "cancel": "Cancel",
+    "confirmRemoval": "Confirm Removal",
+    "next": "Next",
+    "roles": {
+      "Admin": "Admin",
+      "SupportAgent": "Support Agent",
+      "Accountant": "Accountant"
+    }
+  },
+
+  "roles": {
+    "admin": {
+      "title": "Admin",
+      "subtitle": "Full access to the platform",
+      "description": "Admins have complete control over all platform features. They can manage all settings, users, and configurations."
+    },
+    "support": {
+      "title": "Support Agent",
+      "subtitle": "Customer Support Role",
+      "description": "Support agents handle customer inquiries and manage orders. They are primarily focused on assisting clients but do not have access to sensitive financial or configuration data."
+    },
+    "accountant": {
+      "title": "Accountant",
+      "subtitle": "Financial Management Role",
+      "description": "Accountants manage financial records and oversee billing. They have access to financial data, invoices, and reports but cannot manage operational feature."
+    },
+    "button": "Got It"
+  },
+  "edituser": {
+    "fullname": "Full Name",
+    "email": "Email",
+    "role": "Role",
+    "cancel": "Cancel",
+    "save": "Save Changes",
+    "successTitle": "Role Updated Successfully",
+    "successMessage": "The role has been updated successfully. The changes have taken effect immediately.",
+    "close": "Close",
+    "roles": {
+      "admin": "Admin",
+      "user": "User",
+      "accountant": "Accountant",
+      "support": "Support Agent"
+    }
+  },
+  "signup": {
+    "signupTitle": "Create your account",
+    "signupDesc": "Sign up to start shopping on Diisty.",
+    "personnalInfo": "Personal Information",
+    "companyInfo": "Company informations",
+    "personnalfields": "Check and fill all fields.",
+    "firstName": "First Name*",
+    "lastName": "Last Name*",
+    "email": "Email Address*",
+    "phone": "Phone Number*",
+    "compteexist": "Already have an account?",
+    "signin": "Sign in",
+    "select": "Select category and check passwords matching.",
+    "company": "Company Name*",
+    "companycategory": "Company Category*",
+    "companyphone": "Company Phone Number*",
+    "companyemail": "Company Email*",
+    "password": "Password*",
+    "confirmpassword": "Confirm Password*"
+  },
+  "login": {
+    "btnlogin": "Login",
+    "btnsignup": "Sign up",
+    "welcome": "Welcome back!",
+    "manage": " Log in to manage your purchases and account.",
+    "email": "Email Address",
+    "password": "Password",
+    "remember": "Remember me",
+    "forgot": "Forgot Password?",
+    "fill": "Fill all the fields.",
+    "account": "Don't have an account?"
+  },
+  "navbar": {
+    "home": "Home",
+    "about": "Strengths",
+    "products": "Products",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "loader": {
+    "title": "Please wait...",
+    "text": "We’re loading the page for you"
+  },
+  "sendingLoader": {
+    "title": "Sending reset link...",
+    "subtitle": "Check your inbox shortly"
+  },
+  "loginLoader": {
+    "title": "Signing you in...",
+    "subtitle": "Please wait while we verify your credentials"
+  },
+  "purchaseAction": {
+    "viewDetails": "View Details",
+    "viewInvoice": "View Invoice"
+  },
+  "recordCashIn": {
+    "sourceLabel": "Source",
+    "sourcePlaceholder": "Client",
+    "paymentMethod": "Payment Method",
+    "selectPaymentMethod": "Select payment method",
+    "bankTransfer": "Bank Transfer",
+    "cash": "Cash",
+    "mobileMoney": "Mobile Money",
+    "amountLabel": "Amount (XAF)",
+    "amountPlaceholder": "45,000",
+    "dateLabel": "Date of Transaction",
+    "pickDate": "Pick a date",
+    "statusLabel": "Status",
+    "selectStatus": "Select status",
+    "cleared": "Cleared",
+    "pending": "Pending",
+    "cancel": "Cancel",
+    "supportingDoc": "Supporting Document (Optional)",
+    "uploadPrompt": "Click to upload",
+    "uploadAlt": "or drag and drop",
+    "uploadNote": "JPEG, PNG and PDF",
+    "cancelBtn": "Cancel",
+    "saveBtn": "Save Entry",
+    "successTitle": "Cash In Saved Successfully",
+    "successMessage": "Your cash in entry has been recorded and added to your accounting records.",
+    "viewCashFlow": "View Cash Flow"
+  },
+  "reports": {
+    "title": "Download summary reports of your financial activity for accounting or sharing purposes."
+  },
+  "forgot": {
+    "back": "Back",
+    "noAccount": "Don’t have an account?",
+    "signup": "Sign Up",
+    "title": "Forgot Password?",
+    "description": "Enter your email to receive instructions.",
+    "inputPlaceholder": "Enter your Email",
+    "button": "Receive Verification Email",
+    "message": "If your account exists, you will receive a mail at that address to recover it.",
+    "error": "An error occured. Try again."
+  },
+  "createPassword": {
+    "back": "Back",
+    "noAccount": "Don’t have an account?",
+    "signup": "Sign Up",
+    "title": "Create New Password",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "Enter password",
+    "confirmPasswordLabel": "Confirm Password",
+    "confirmPasswordPlaceholder": "Confirm password",
+    "errorShort": "Password must be at least 8 characters.",
+    "errorMismatch": "Passwords do not match.",
+    "button": "Set Your New Password",
+    "dialogTitle": "Done!",
+    "dialogDesc": "Your password has been successfully reset.",
+    "ok": "Ok"
+  },
+  "validateInvitation": {
+    "title": "Confirm my invitation",
+    "supplier": "Supplier",
+    "company": "My company",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password *",
+    "confirmPassword": "Confirm password *",
+    "validate": "Confirm",
+    "successMessage": "Clien account successfuly created.."
+  },
+  "addproduct": {
+    "btnbackclassification": "Back to product classification",
+    "btnback": "Back to product list",
+    "title": "Title",
+    "description": "Product Description",
+    "charaters": "{{count}} characters left",
+    "price": "Pricing",
+    "message": "Please enter the unit price of the product for each registered customer category.",
+    "save": "View saved categories?",
+    "quantity": "Quantity From (Unit)",
+    "quantityTo": "Quantity To (Unit)",
+    "unitprice": "Unit Price",
+    "btn": "Add Tier",
+    "productstock": "Stock Settings",
+    "available": "Available Quantity",
+    "productdescription": "Please enter the Minimum Order Quantity (MOQ) for the product for each registered customer category.",
+    "category": "View saved categories?",
+    "productimg": "Product Image",
+    "productclick": "Click to upload",
+    "productdrog": "or drag and drop",
+    "productStatus": "Status",
+    "productid": "Product ID",
+    "producttype": "Product Type",
+    "productcode": "Product Origin Code",
+    "productimported": "'00' for imported products",
+    "productlocal": "'50' for local products",
+    "productcategory": "Product Category",
+    "productschoose": "Choose product Category",
+    "productsubcategory": "Product Subcategory",
+    "productschoose1": "Choose product Subcategory",
+    "productfinal": "Final code",
+    "active": "Active",
+    "inactive": "Inactive",
+    "unit": "Unit",
+    "unitPrice": "Unit price",
+    "availableQuantity": "Available quantity",
+    "minimumOrderQuantity": "Minimum order quantity",
+    "minimumOrderingPrice": "Minimum ordering price",
+    "maximumOrderingPrice": "Maximum ordering price",
+    "btnDiscard": "Discard",
+    "btnSave": "Save Changes"
+  },
+  "addcategory": {
+    "title": "Add New Category",
+    "categoryname": "Category Name",
+    "categorynamePlaceholder": "Enter category name",
+    "description": "Description",
+    "descriptionOptional": "(optional)",
+    "descriptionPlaceholder": "Travel, food, etc.",
+    "cancel": "Cancel",
+    "add": "Add Category"
+  },
+
+  "addexpense": {
+    "title": "Add New Expense",
+    "info": "Expense Information",
+    "expenseTitle": "Expense Title",
+    "expenseCategory": "Expense Category",
+    "amount": "Amount (XAF)",
+    "payment": "Payment Details",
+    "paymentMethod": "Payment Method",
+    "paymentDate": "Payment Date",
+    "notes": "Notes (Optional)",
+    "char": "{{count}} characters left",
+    "document": "Supporting Document (Optional)",
+    "clickUpload": "Click to upload",
+    "orDrop": "or drag and drop (JPEG, PNG, PDF)",
+    "cancel": "Cancel",
+    "save": "Save Expense",
+    "successTitle": "Expense Saved Successfully",
+    "successDesc": "Your expense has been recorded and added to your accounting records.",
+    "viewAll": "View All Expenses",
+    "utilities": "Utilities",
+    "travel": "Travel",
+    "supplies": "Supplies",
+    "other": "Other",
+    "bank": "Bank Transfer",
+    "cash": "Cash",
+    "mobile": "Mobile Money"
+  },
+  "clientaction": {
+    "view": "View Profile",
+    "history": "Purchase History",
+    "delete": "Delete",
+    "confirm": "Confirm Deletion",
+    "description": "Are you sure you want to delete this product type? This action cannot be undone.",
+    "cancel": "Cancel",
+    "confirmDelete": "Delete"
+  },
+  "confirmpreorder": {
+    "title": "Pre-order Successfully Confirmed",
+    "description": "The pre-order has been confirmed and sent to the retailer. You can view the order details at any time in your order history.",
+    "button": "See All Orders"
+  },
+  "retailer": {
+    "changeAvatar": "Change Avatar",
+    "changeUserType": "Change the User Type",
+    "companyName": "Company Name",
+    "registrationNumber": "Company Registration Number",
+    "companyCategory": "Company Category",
+    "selectCategory": "Select category",
+    "fastFood": "Fast-Food",
+    "restaurant": "Restaurant",
+    "retail": "Retail",
+    "companyAddress": "Company Address",
+    "fullName": "Full Name",
+    "email": "Email",
+    "phoneNumber": "Phone Number",
+    "shopLocation": "Shop Location",
+    "autolocate": "Autolocate Me",
+    "longitude": "Longitude",
+    "latitude": "Latitude",
+    "cancel": "Cancel",
+    "saveAndInvite": "Save and Invite Retailer"
+  },
+  "productsclassification": {
+    "actions": {
+      "edit": "Edit",
+      "view": "View Details",
+      "delete": "Delete",
+      "cancel": "Cancel",
+      "save": "Save Changes"
+    },
+    "edit": {
+      "title": "Edit Product Type",
+      "name": "Product type Name",
+      "code": "Product type Code",
+      "description": "Description",
+      "optional": "Optional",
+      "charsLeft": "characters left",
+      "defaultDescription": "Hendrerit nisi phasellus cras odio. Sed suscipit lectus eget nisl cursus massa. Mauris consectetur amet nulla tristique cras blandit. Sem tellus enim donec tortor viverra urna tellus enim."
+    },
+    "delete": {
+      "title": "Confirm Deletion",
+      "description": "Are you sure you want to delete this product type? This action cannot be undone."
+    }
+  },
+  "editexpense": {
+    "title": "Edit Expense",
+    "expenseinfo": "Expense Information",
+    "expensetitle": "Expense Title",
+    "category": "Expense Category",
+    "utilities": "Utilities",
+    "travel": "Travel",
+    "supplies": "Supplies",
+    "other": "Other",
+    "amount": "Amount (XAF)",
+    "paymentdetails": "Payment Details",
+    "method": "Payment Method",
+    "mobile": "Mobile Money",
+    "bank": "Bank Transfer",
+    "cash": "Cash",
+    "date": "Payment Date",
+    "docsnotes": "Supporting Documents & Notes",
+    "notes": "Notes (Optional)",
+    "charsleft": "{{count}} characters left",
+    "uploadlabel": "Supporting Document (Optional)",
+    "clickupload": "Click to upload",
+    "or": "or drag and drop (JPEG, PNG, PDF)",
+    "cancel": "Cancel",
+    "save": "Save Expense",
+    "savedtitle": "Expense Saved Successfully",
+    "saveddesc": "Your expense has been recorded and added to your accounting records.",
+    "view": "View All Expenses"
+  },
+  "paymentplan": {
+    "successTitle": "Payment Plan Sent Successfully",
+    "successDescription": "The payment plan has been successfully proposed to the retailer.",
+    "okButton": "OK"
+  },
+  "availability": {
+    "updateTitle": "Update Product Availability",
+    "updateDescription": {
+      "part1": "Review the requested quantities and adjust based on",
+      "link": "current stock"
+    },
+    "tableTitle": "Product Table",
+    "headers": {
+      "productName": "Product Name",
+      "requestedQty": "Requested Qty",
+      "availableQty": "Available Qty (Editable)"
+    },
+    "products": {
+      "Chicken Breast": "Chicken Breast",
+      "Tomato Paste": "Tomato Paste"
+    },
+    "enterQuantity": "Enter quantity",
+    "notesLabel": "Notes (Optional)",
+    "notesPlaceholder": "Only partial quantities available. Kindly review and confirm.",
+    "charactersLeft": "characters left",
+    "cancel": "Cancel",
+    "sendButton": "Send Availability Update",
+    "successTitle": "Availability updated successfully!",
+    "successDescription": "The product availability has been updated and the client has been notified.",
+    "ok": "Ok"
+  },
+  "management": {
+    "title": "Products List",
+    "productcode": "Product Code",
+    "productname": "Product Name",
+    "available": "Available Quantity",
+    "availability": "Availability",
+    "price": "Price Range",
+    "status": "Status",
+    "action": "Actions"
+  },
+  "filterdistrib": {
+    "title": "Filters",
+    "btnapplied": "applied",
+    "select": "Select options for",
+    "filter": "Select a filter in the left panel to see it",
+    "results": "Results",
+    "products": "Products",
+    "btncancel": "Cancel",
+    "appliedfilters": "Apply Filters"
+  },
+  "formdetails": {
+    "customer": "Customer Details",
+    "order": "Order Information",
+    "orderid": "Order ID",
+    "orderdate": "Order Date",
+    "orderstatus": "Order Status",
+    "ordertotal": "Order Total",
+    "orderpayment": "Order Payment",
+    "orderpending": "Pending",
+    "orderpaid": "Paid",
+    "orderfaild": "Failed",
+    "orderpreparation": "In Preparation",
+    "ordertransit": "In Transit",
+    "orderdelivered": "Delivered",
+    "ordercancelled": "Cancelled",
+    "orderproduct": "Products Ordered",
+    "orderorganic": "Organic Apple Bundle",
+    "orderprice": "Price per Unit",
+    "btncancel": "Cancel",
+    "btnsave": "Save changes",
+    "btninvoice": "Invoice Preview"
+  },
+  "report": {
+    "placeholder": {
+      "type": "Type",
+      "date": "Enter date (DD/MM/YYYY)"
+    },
+    "actions": {
+      "reset": "Reset",
+      "generate": "Generate New Report",
+      "download": "Download"
+    },
+    "title": "Previous Reports",
+    "table": {
+      "date": "Date",
+      "type": "Type",
+      "period": "Period",
+      "link": "Report Links"
+    },
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next"
+    },
+    "type": {
+      "Daily Summary": "Daily Summary",
+      "Cash Flow Report": "Cash Flow Report",
+      "Weekly Expense Report": "Weekly Expense Report",
+      "Monthly Summary": "Monthly Summary"
+    }
+  },
+  "treasury": {
+    "description": "Get an overview of your current cash flow, bank balances, and movement of funds.",
+    "reset": "Reset",
+    "export": "Export to Excel",
+    "type": "Type",
+    "source/category": "Source/Category",
+    "amount": "Amount",
+    "payment": "Payment Method",
+    "status": "Status",
+    "transactions": "No transactions found.",
+    "next": "Next",
+    "actions": {
+      "recordcashin": "Record Cash In"
+    }
+  },
+
+  "reportsummary": {
+    "daily": "Daily Summary",
+    "weekly": "Weekly Summary",
+    "monthly": "Monthly Summary",
+    "other": "Other",
+    "reportsavailable": "reports available"
+  },
+  "paymentplans": {
+    "title": "Choose a Payment Plan",
+    "cancel": "Cancel",
+    "confirm": "Confirm and Send to Retailer",
+    "prepayment": {
+      "label": "100% Prepayment",
+      "description": "Full payment is made before the goods are delivered."
+    },
+    "cod": {
+      "label": "Cash on Delivery (COD)",
+      "description": "Payment is collected directly upon the delivery of goods."
+    },
+    "installments": {
+      "label": "Monthly Installments",
+      "description": "Payments are divided into equal amounts made monthly until the total is covered."
+    },
+    "30days": {
+      "label": "30-Day Payment Terms",
+      "description": "The total payment is due within 30 days from the invoice date."
+    },
+    "60days": {
+      "label": "60-Day Payment Terms",
+      "description": "Payment must be completed within 60 days from the date of invoicing."
+    },
+    "deferred": {
+      "label": "Deferred Payment",
+      "description": "Payment is scheduled for a future date agreed upon during the transaction."
+    }
+  },
+  "pagination": {
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "orders": {
+    "totalPurchases": "Total Purchases",
+    "lastPurchaseDate": "Last Purchase Date",
+    "orderList": "Order List",
+    "orderID": "Order ID",
+    "preorderDate": "Pre-order Date",
+    "customerName": "Customer Name",
+    "items": "Items",
+    "totalPrice": "Total Price (FCFA)",
+    "status": "Order Status",
+    "actions": "Quick Actions",
+    "seeMore": "See More",
+    "seeLess": "See Less",
+    "statuses": {
+      "In Preparation": "In Preparation",
+      "In Transit": "In Transit",
+      "Pre-order": "Pre-order",
+      "Delivered": "Delivered"
+    }
+  },
+  "cart": {
+    "title": "My Cart",
+    "description": "There are no products in your cart yet.",
+    "select": "Select items you desire on the left.",
+    "total": "Total Price",
+    "preorder": " Pre-order Now",
+    "confirm": "Confirm Your Pre-order",
+    "assign": "Assign to an existing client/retailer",
+    "assignretailer": "Assign to an existing client/retailer",
+    "messageplease": "Please enter the name of the retailer for whom you wish to place the order.",
+    "linkback": "Back",
+    "btnok": "OK",
+    "customername": "Customer Name",
+    "clientcategory": "Client Category",
+    "phone": "Phone Number",
+    "email": "Email Address",
+    "mailing": "Mailing Address",
+    "method": "Payment Method",
+    "plan": "Payment Plan",
+    "cash": "Cash",
+    "card": "Card",
+    "mobile": "Mobile Payment",
+    "btncancel": "Cancel",
+    "btnsave": "Save",
+    "special": "Special Instructions",
+    "message": "Given the perishable nature of our products, availability may vary. You will receive an availability update shortly after your pre-order confirmation."
+  },
+  "upload": {
+    "title": "Upload your File",
+    "description": "Upload your Excel file (.xls, .xlsx) containing product data.",
+    "click": "Click to upload",
+    "or": "or drag and drop",
+    "only": "Only .xls, .xlsx",
+    "cancel": "Cancel",
+    "import": "Import Data",
+    "importing": "Importing...",
+    "successTitle": "Product import Successfully",
+    "successMessage": "The products are now visible in your product list.",
+    "back": "Back to Product List"
+  },
+  "balances": {
+    "title": "Cash & Bank Balances",
+    "cash": "Cash balance",
+    "funds": "Total Funds",
+    "bank": "Bank Account"
+  },
+  "confirmorder": {
+    "title": "Order Confirmed!",
+    "thanks": "Thank you for confirming. Next steps:",
+    "step1": "1. Proceed to payment selection.",
+    "step2": "2. Choose your preferred payment plan.",
+    "note": "Note: You'll be notified of any further updates.",
+    "continue": "Continue to Payment"
+  },
+  "declineorder": {
+    "title": "Order Declined",
+    "message": "Your pre-order has been canceled. We understand if the quantities didn’t meet your needs.",
+    "instruction": "If you’d like to place a new order, please visit our Product Catalog.",
+    "continue": "Continue to Payment",
+    "contact": "Contact the vendor"
+  },
+  "expensescategory": {
+    "back": "Back to Financial Overview",
+    "title": "Expense Category",
+    "subtitle": "Define and maintain a clean, custom list of expense categories",
+    "searchPlaceholder": "Search by category name...",
+    "add": "Add New Category",
+    "listTitle": "Expense List",
+    "table": {
+      "select": "Select",
+      "category": "Category Name",
+      "description": "Description",
+      "number": "Number of Expenses using",
+      "attachment": "Attachment",
+      "actions": "Actions"
+    },
+    "paginationNext": "Next »"
+  },
+  "paymentmethod": {
+    "title": "Select Your Payment Plan",
+    "subtitle": "Choose a payment plan suited to your needs.",
+    "sectiontitle": "Payment Plans",
+    "cancel": "Cancel",
+    "continue": "Continue →",
+    "plans": {
+      "prepayment": {
+        "title": "100% Prepayment",
+        "description": "Full payment made at the time of order placement."
+      },
+      "installments": {
+        "title": "Monthly Installments (Equal Payments)",
+        "description": "25% each month for 4 months."
+      },
+      "30days": {
+        "title": "30-Day Payment Terms",
+        "description": "Full payment due within 30 days of invoice generation."
+      },
+      "60days": {
+        "title": "60-Day Payment Terms",
+        "description": "Full payment due within 60 days of invoice generation."
+      },
+      "cod": {
+        "title": "Cash on Delivery/Pickup",
+        "description": "Convenient payment upon delivery or pickup."
+      }
+    }
+  },
+  "paymentselection": {
+    "title": "Choose Your Payment Method",
+    "subtitle": "To proceed with your confirmed pre-order, please select a payment method.",
+    "sectiontitle": "Payment Method",
+    "cancel": "Cancel",
+    "continue": "Continue →",
+    "methods": {
+      "bank": {
+        "title": "Bank Transfer",
+        "description": "Safe and direct. Complete your payment within the bank's transfer timeline."
+      },
+      "cash": {
+        "title": "Cash on Delivery/Pickup",
+        "description": "Convenient payment upon delivery or pickup."
+      }
+    }
+  },
+  "notifications": {
+    "description": " Stay updated on critical actions, order changes, or requests from retailers with real-time notifications here.",
+    "inbox": "Inbox",
+    "update": "Update Availability",
+    "preorder": "Pre-Order Summary",
+    "pending": "Pendig approval",
+    "open": "Open Pre-Order Details",
+    "select": "Select a message to view details.",
+    "messages": {
+      "all": "All Messages",
+      "unread": "Unread",
+      "read": "Read"
+    }
+  },
+  "notificationsretailer": {
+    "description": " Get real-time updates on orders, payments, and important activities.",
+    "decline": "Decline Order",
+    "confirm": "Confirm Order",
+    "select": "Select a message to view details."
+  },
+  "productManagement": {
+    "title": "Product Management",
+    "description": "Manage your products, inventory, and categories."
+  },
+  "paymentplan1": {
+    "nameLabel": "Payment Plan Name",
+    "descriptionLabel": "Description",
+    "defaultName": "100% Prepayment",
+    "defaultDescription": "Full payment is made before the goods are delivered.",
+    "cancel": "Cancel",
+    "save": "Save"
+  },
+  "setting": {
+    "changeAvatar": "Change Avatar",
+    "saveChanges": "Save Changes",
+    "editAccountInfo": "Edit Information",
+    "sectionTitle": "Business Information",
+    "businessCategory": "Business Category",
+    "contactPerson": "Contact Person",
+    "officeAddress": "Office Address",
+    "taxIdNumber": "Tax Identification Number",
+    "vatPercentage": "VAT Percentage",
+    "product": "Douala Fresh Produce",
+    "tax": "Tax",
+
+    "categories": {
+      "food": "Food & Beverage",
+      "retail": "Retail",
+      "wholesale": "Wholesale",
+      "agribusiness": "Agribusiness"
+    }
+  },
+  "createretailerform": {
+    "companyName": "Company Name",
+    "companyCategory": "Company Category",
+    "selectCategory": "Select a category",
+    "companyAddress": "Company Address",
+    "companyEmail": "Company Email",
+    "companyPhone": "Company Phone",
+    "contactPersonName": "Contact Person Name",
+    "contactPersonEmail": "Contact Person Email",
+    "contactPersonPhone": "Contact Person Phone",
+    "changeAvatar": "Change Avatar",
+    "changeUserType": "Change the User Type",
+    "shopLocation": "Shop Location",
+    "autolocateMe": "Autolocate Me",
+    "longitude": "Longitude",
+    "latitude": "Latitude",
+    "cancel": "Cancel",
+    "saveAndInvite": "Save and Invite Retailer",
+    "loadingTitle": "Processing",
+    "loadingMessage": "Please wait while we create the retailer...",
+    "success": "Retailer created successfully",
+    "error": "An error occurred while creating the retailer"
+  },
+  "loadergeneric": {
+    "defaultTitle": "Please wait...",
+    "defaultMessage": "We’re loading the page for you"
+  },
+  "setings": {
+    "changeAvatar": "Change Avatar",
+    "saveChanges": "Save Changes"
+  },
+  "paymentDetails": {
+    "title": "Payment Details",
+    "edit": "Edit Payment Details",
+    "methods": {
+      "bank": "Bank Transfer",
+      "cash": "Cash",
+      "mobile": "Orange Money"
+    },
+    "bankName": "Bank Name",
+    "accountNumber": "Account Number",
+    "mobileNumber": "Mobile Payment Number",
+    "tax": {
+      "title": "Tax Configuration",
+      "edit": "Edit Tax Configuration",
+      "vatRate": "VAT Rate (%)",
+      "includeVAT": "Include VAT on Orders",
+      "transportRate": "Transport Tax Rate (%)",
+      "includeTransport": "Include Transport Tax on Orders",
+      "add": "+ Add a Tax Configuration"
+    },
+    "plans": {
+      "title": "Payment Plans",
+      "create": "Create a New Payment Plan",
+      "dialogTitle": "Create a New Payment Plan",
+      "dialogDesc": "Define the details of the new payment plan you want to offer. This plan will be available for selection when processing client orders.",
+      "prepayment": "100% Prepayment",
+      "prepaymentDesc": "Full payment is made before the goods are delivered.",
+      "cod": "Cash on Delivery (COD)",
+      "codDesc": "Payment is collected directly upon the delivery of goods.",
+      "installments": "Monthly Installments",
+      "installmentsDesc": "Payments are divided into equal amounts made monthly until the total is covered.",
+      "net30": "30-Day Payment Terms",
+      "net30Desc": "The total payment is due within 30 days from the invoice date.",
+      "net60": "60-Day Payment Terms",
+      "net60Desc": "Payment must be completed within 60 days from the date of invoicing.",
+      "net90": "90-Day Payment Terms",
+      "net90Desc": "Payment must be completed within 90 days from the date of invoicing.",
+      "net120": "120-Day Payment Terms",
+      "net120Desc": "Payment must be completed within 120 days from the date of invoicing."
+    }
+  },
+  "page": {
+    "prev": "Prev",
+    "next": "Next"
+  },
+  "toast": {
+    "successnewpassword": "Password reset successfully.",
+    "errornewpassword": "Something went wrong, try again.",
+    "successupdatepassword": "Password reset link sent successfully.",
+    "errorupdatepassword": "An error occurred. Please try again.",
+    "successclient": "Category created successfully.",
+    "errorclient": "Category creation failed. Please try again.",
+    "productsuccess": "Product created successfully",
+    "producterror": "Product creation failed. Please try again.",
+    "success": "The retailer has been successfully created.",
+    "error": "Error occurred while creating the retailer."
+  },
+  "expensecategory": {
+    "administrative": "Administrative Fees",
+    "reimbursements": "Reimbursements",
+    "storage": "Storage Fees",
+    "exceptional": "Exceptional Expenses",
+    "loading": "Loading orders...",
+    "btn": "Create a role"
+  },
+  "purchase": {
+    "change": "Change avatar",
+    "delete": "Delete",
+    "btnback": "Back",
+    "title": "Client orders",
+    "total": "Total payments",
+    "lastOrderDate": "Last order date"
+  },
+  "facture": {
+    "title": "Invoices",
+    "client": "Client",
+    "email": "Email",
+    "phone": "Phone",
+    "date": "Order Date",
+    "product": "Products",
+    "quantity": "Quantity",
+    "unitPrice": "Unit Price",
+    "subTotal": "Subtotal",
+    "id": "Invoice ID"
+  },
+  "transaction": {
+    "type": {
+      "Income": "Income",
+      "Expense": "DExpense"
+    },
+    "payment": {
+      "Cash": "Cash",
+      "Bank Transfer": "Bank Transfer",
+      "Mobile Money": "Mobile Money"
+    },
+    "status": {
+      "Cleared": "Cleared",
+      "Pending": "Pending",
+      "Cancel": "Cancel"
+    }
+  },
+  "cash": {
+    "title": "Cash Entry",
+    "positive": "Create a cash entry",
+    "inflows": "Cash inflows",
+    "outflows": "Cash outflows"
+  },
+  "user": {
+    "account": "Account Information",
+    "fullname": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "emailaddress": "Company Address",
+    "accountdetails": "Account Details",
+    "date": "Date",
+    "clientcategory": "Client Category",
+    "lastinteraction": "Last Interaction",
+    "accounttype": "Account Type",
+    "referent": "Referee Person",
+    "referenttel": "Referee Person Phone"
+  },
+  "loaderreset": {
+    "title": "Réinitialiser le mot de passe",
+    "description": "Entrez votre adresse e-mail pour réinitialiser votre mot de passe.",
+    "btn": "Add New Order"
+  }
+}

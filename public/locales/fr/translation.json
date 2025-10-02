@@ -1,0 +1,1606 @@
+{
+  "landingpage": {
+    "title": "Diisty, la solution digitale qui accélère la distribution pour les industriels africains.",
+    "description": "En simplifiant la prise de commande, en réduisant les délais de traitement et en fluidifiant la logistique, elle permet d’encaisser plus rapidement. Résultat : moins d’attente pour être payé, plus de ventes, et un cycle de trésorerie nettement raccourci.",
+    "cta": "Parler avec un commercial"
+  },
+  "features": {
+    "sectionTitle": "Notre technologie en 3 piliers",
+    "sectionDescription": "Des fonctionnalités conçues pour renforcer la collaboration et fluidifier la gestion des commandes et paiements entre la centrale et ses membres.",
+
+    "cards": [
+      {
+        "title": "B2B Cloud adapté aux réalités locales",
+        "description": "Offrez à vos partenaires un accès 24h/24 et 7j/7 à votre catalogue produits, vos tarifs, vos options de paiement et vos conditions contractuelles."
+      },
+      {
+        "title": "Automatisation zéro friction",
+        "description": "Ne perdez plus de temps avec les relances manuelles. Diisty envoie automatiquement des rappels de paiement par SMS, WhatsApp et e-mail. C’est comme si vous aviez un commercial et un gestionnaire de compte intégrés à votre équipe, sans le coût d’un recrutement"
+      },
+      {
+        "title": "Vue globale et instantanée des opérations",
+        "description": "Le directeur général visualise en temps réel toutes les opérations : commandes, paiements, livraisons et interactions clients. Cette vue globale facilite la prise de décisions éclairées pour piloter efficacement l’entreprise."
+      }
+    ],
+
+    "blocks": [
+      {
+        "title": "Tarification par catégorie de client",
+        "description": "Un seul catalogue, des prix adaptés à chaque segment de clients."
+      },
+      {
+        "title": "Statistiques actionnables en temps réel",
+        "description": "Identifiez rapidement vos produits phares et vos segments clients les plus performants pour anticiper efficacement vos décisions stratégiques."
+      },
+      {
+        "title": "Espace de commande dédié pour les membres de la centrale",
+        "description": "Offrez à vos membres un espace personnalisé pour passer leurs commandes de manière simple."
+      }
+    ]
+  },
+  "cta": {
+    "description": "Découvrez comment notre plateforme simplifie la gestion des relations",
+    "title": "Tester Diisty dès aujourd’hui",
+    "waitlist": "Tester la Version Beta",
+    "contact": "Parler avec un commercial"
+  },
+
+  "faq": {
+    "title": "Foire Aux Questions",
+    "description": "Trouvez rapidement des réponses à vos questions pour profiter pleinement des avantages offerts par Diisty.",
+    "q1": "Qu’est-ce que Diisty et comment cela fonctionne-t-il ?",
+    "a1": "Diisty est une plateforme basée sur le cloud qui permet aux centrales d'achat de gérer facilement leurs relations avec les membres. Grâce à cet outil en ligne, chaque membre dispose d’un espace dédié pour passer des commandes, suivre les livraisons et gérer les paiements en toute simplicité.",
+    "q2": "Comment Diisty aide-t-il à optimiser les achats de mes membres ?",
+    "a2": "Diisty centralise en temps réel les commandes de vos membres, vous permettant d’anticiper leurs besoins, de négocier des prix compétitifs et d’adapter les conditions à chaque profil, tout en réduisant les coûts et en optimisant la gestion des achats.",
+    "q3": "Puis-je personnaliser les prix et les modalités de paiement pour mes membres ?",
+    "a3": "Oui, Diisty vous permet de créer des grilles tarifaires flexibles et des plans de paiement personnalisés pour chaque membre. Vous pouvez adapter les prix et les modalités de paiement selon les profils de vos membres.",
+    "q4": "Comment Diisty renforce-t-il la collaboration entre la centrale et ses membres ?",
+    "a4": "Oui, Diisty vous permet de créer des grilles tarifaires flexibles et des plans de paiement personnalisés pour chaque membre. Vous pouvez adapter les prix et les modalités de paiement selon les profils de vos membres."
+  },
+  "contact": {
+    "title": "Accéder a la version Beta",
+    "description": "Remplissez ce formulaire afin d'être informé en priorité dès la mise en service de notre produit.",
+    "nom": "Nom",
+    "entreprise": "Nom de l'entreprise",
+    "email": "Adresse Email",
+    "telephone": "Numéro de Téléphone",
+    "message": "Votre message (court message)",
+    "required": "*",
+    "submit": "Tester la Version Beta",
+    "error_required": "Veuillez remplir tous les champs obligatoires.",
+    "success": "Formulaire soumis avec succès!",
+    "error": "Erreur lors de l’envoi du formulaire.",
+    "atouttitle1": "Un retour sur investissement imbattable",
+    "description1": "Diisty coûte 10 fois moins qu'un salarié… mais accomplit le travail de plus de 10 personnes. Automatisation des relances de paiement, suivi des ventes et bien plus encore : tout est inclus, sans charge administrative.",
+    "highlight1": "10x moins cher · Productivité 10x",
+    "atouttitle2": "Une simplicité d'usage extrême",
+    "description2": "Plus intuitif que WhatsApp. Aucune compétence technique requise : nous avons sur-simplifié l'expérience utilisateur pour que même un nouvel arrivant soit opérationnel en quelques minutes.",
+    "highlight2": "Plus intuitif que WhatsApp",
+    "atouttitle3": "Disponible partout, tout le temps",
+    "highlight3": "100% multi-support",
+    "description3": "Vos équipes et partenaires peuvent travailler, commander et payer où qu'ils soient, sans installation complexe.",
+    "atout": "Nos atouts",
+    "paragraph": "Ce qui fait de Diisty la solution la plus économique et efficace du marché"
+  },
+  "footer": {
+    "links": {
+      "home": "Accueil",
+      "about": "Nos Atouts",
+      "products": "Nos Produits",
+      "faq": "FAQ",
+      "contact": "Contact"
+    },
+    "newsletter": {
+      "title": "Recevez les nouvelles de Diisty",
+      "placeholder": "Exemple@gmail.com",
+      "button": "S'inscrire",
+      "error_required": "Veuillez remplir tous les champs obligatoires.",
+      "success": "Formulaire soumis avec succès!",
+      "error": "Erreur lors de l’envoi du formulaire."
+    },
+    "bottom": {
+      "rights": "@2025.Diisty. Tous droits réservés",
+      "privacy": "Politique de confidentialité",
+      "terms": "Termes et conditions"
+    }
+  },
+
+  "statCard": {
+    "currentOrders": "Commandes en cours",
+    "totalExpenses": "Dépenses totales (FCFA)",
+    "outstandingInvoices": "Factures impayées",
+    "vsLastMonth": "{{value}} par rapport au mois dernier"
+  },
+
+  "dashboard": {
+    "title": "Bienvenue, {{name}}",
+    "description": "Centralisez et optimisez les commandes groupées pour vos membres, réduisant ainsi les coûts.",
+    "Dashboard": "Tableau de bord",
+    "Product Catalog": "Catalogue de produits",
+    "Order Tracking": "Suivi des commandes",
+    "Billing": "Facturation",
+    "Capture": "Capture",
+    "Proposal": "Proposition",
+    "Prompts": "Instructions",
+    "Active Proposals": "Propositions actives",
+    "Archived": "Archivées",
+    "Settings": "Paramètres",
+    "Get Help": "Aide",
+    "Search": "Recherche",
+    "Data Library": "Bibliothèque de données",
+    "Reports": "Rapports",
+    "Word Assistant": "Assistant de rédaction"
+  },
+
+  "table": {
+    "title": "Achats récents",
+    "status": "Statut",
+    "search": "Recherche...",
+    "orderId": "ID de la commande",
+    "date": "Date de création",
+    "amount": "Montant (FCFA)",
+    "actions": "Actions rapides",
+    "detailsHint": "Cliquez ici pour rediriger vers la page des détails de la commande",
+    "moreInfoHint": "Cliquez ici pour avoir plus d'informations",
+    "orderTracking": "Suivi de commande",
+    "projectId": "Id du projet",
+    "creationDate": "Date de création",
+    "cost": "Coût du projet",
+    "deliveryStage": "Étape de livraison :",
+    "deliveredToLocation": "Livré au point de retrait",
+    "route": "Itinéraire :",
+    "carrierContact": "Contact du transporteur :",
+    "seeMore": "Voir plus",
+    "seeLess": "Voir moins",
+    "reset": "Reinitialiser"
+  },
+  "status": {
+    "preorder": "Précommande",
+    "inpreparation": "En préparation",
+    "intransit": "En transit",
+    "delivered": "Livré"
+  },
+  "product": {
+    "name": "Tomates fraîches",
+    "descriptiontomate": "Tomates rouges cultivées localement",
+    "paragraph": "Paragraphe d'exemple",
+    "title": "Catalogue de produits",
+    "description": "Explorez et gérez votre catalogue de produits en toute simplicité",
+    "category": "Catégorie de produit",
+    "searchPlaceholder": "Rechercher...",
+    "reset": "Réinitialiser",
+    "availableQuantity": "{{quantity}} {{unit}} disponibles",
+    "pricePerKg": "{{price}} Fcfa/{{unit}}",
+    "moq": "Commande minimale: {{moq}} {{unit}}",
+    "add": "Ajouter au panier",
+    "added": "Ajouté",
+    "dialog.title": "Définir le plan de paiement",
+    "dialog.description": "Avant de finaliser votre précommande, veuillez choisir le plan de paiement qui vous convient le mieux.",
+    "cart.title": "Mon Panier",
+    "empty.title": "Il n'y a pas encore de produits dans votre panier.",
+    "empty.subtitle": "Sélectionnez les articles souhaités à gauche.",
+    "product.quantityPrice": "{{quantity}} x {{price}} Fcfa",
+    "actions.decrease": "Diminuer la quantité",
+    "actions.remove": "Supprimer le produit",
+    "total.label": "Prix Total",
+    "preorder.button": "Précommander",
+    "instructions.label": "Instructions spéciales :",
+    "instructions.description": "Étant donné la nature périssable de nos produits, leur disponibilité peut varier. Vous recevrez une mise à jour de disponibilité peu après la confirmation de votre précommande."
+  },
+  "order": {
+    "title": "Suivi des commandes",
+    "description": "Gérez vos commandes, suivez les paiements et explorez les catalogues des fournisseurs en toute simplicité."
+  },
+  "billing": {
+    "title": "Facturation",
+    "description": "Gérez les factures, suivez les paiements et consultez l’historique des transactions facilement.",
+    "balance": "Solde actuel",
+    "note": "Ceci est le montant restant dû pour les commandes confirmées."
+  },
+  "purchaseTable": {
+    "title": "Achats récents",
+    "orderId": "ID de commande",
+    "orderDate": "Date de commande",
+    "amount": "Montant (FCFA)",
+    "method": "Méthode de paiement",
+    "status": "Statut du paiement",
+    "seeMore": "Voir plus",
+    "seeLess": "Voir moins",
+    "statusLabels": {
+      "preparing": "Préparation du paiement",
+      "pending": "Paiement en attente",
+      "received": "Paiement reçu"
+    }
+  },
+  "preorder": {
+    "preorderdetails": "Détails de la précommande",
+    "back": "Détails de la commande",
+    "message": "Merci d'avoir passé une précommande. Veuillez noter qu'aucune facture ne sera générée à ce stade. Nous vous informerons de la disponibilité des produits et de toute mise à jour.",
+    "title": "Commande #978-1-111-95973-9",
+    "status": "En attente d'approbation",
+    "export": "Exporter en PDF",
+    "duplicate": "Dupliquer la commande",
+    "client": "Client et commande",
+    "edit": "Modifier",
+    "customerName": "Nom du client",
+    "phoneNumber": "Numéro de téléphone",
+    "email": "Adresse e-mail",
+    "address": "Adresse postale",
+    "paymentMethod": "Mode de paiement",
+    "deliveryAddress": "Adresse de livraison",
+    "recipientName": "Nom du destinataire",
+    "fullAddress": "Adresse complète",
+    "instructions": "Instructions spéciales",
+    "items": "Articles commandés",
+    "product": "Nom du produit",
+    "quantity": "Quantité commandée",
+    "unitPrice": "Prix unitaire (Fcfa)",
+    "totalPrice": "Prix total (Fcfa)",
+    "subtotal": "Sous-total",
+    "deliveryFee": "Frais de livraison",
+    "vat": "TVA (19.25%)",
+    "total": "Total :",
+    "virement": "virement bancaire",
+    "place": "Nous sommes situés au 3ᵉ étage, appartement 12B"
+  },
+  "detailsproduct": {
+    "back": "Retourner au catalogue"
+  },
+  "infos": {
+    "notFound": "Produit non trouvé.",
+    "inStock": "{{count}} en stock",
+    "moq": "Quantité minimale : {{moq}}",
+    "pricePerKg": "{{price}} FCFA / kg",
+    "quantityUnit": "Quantité (Unité)",
+    "unitPrice": "Prix unitaire (FCFA)",
+    "addToCart": "Ajouter au panier",
+    "added": "Ajouté",
+    "addLabel": "Ajouter {{productName}} au panier",
+    "quantity": "Quantité (Unité)",
+    "price": "Prix"
+  },
+  "payment": {
+    "order": "Commande",
+    "dueDate": "Date d'échéance",
+    "amountDue": "Montant dû",
+    "paymentPlan": "Plan de paiement"
+  },
+  "settings": {
+    "accountInfo": "Informations du compte",
+    "businessInfo": "Infos de l'entreprise",
+    "preferences": "Préférences",
+    "paymentDetails": "Détails de paiement",
+    "security": "Sécurité",
+    "changeAvatar": "Changer l'avatar",
+    "saveChanges": "Enregistrer les modifications",
+    "editAccountInfo": "Modifier les informations du compte",
+    "firstName": "Nom",
+    "lastName": "Prénom",
+    "fullName": "Nom complet",
+    "account": "Paramètres du compte",
+    "email": "Email",
+    "phone": "Numéro de téléphone",
+    "address": "Adresse",
+    "switch1": "Information du Compte",
+    "switch2": "Préferences",
+    "switch3": "Securité",
+    "save": "Enregistrer",
+    "cancel": "Annuler"
+  },
+  "preferences": {
+    "changeAvatar": "Changer l'avatar",
+    "saveChanges": "Enregistrer les modifications",
+    "preferences": "Préférences",
+    "language": "Langue",
+    "notificationSettings": "Paramètres de notification",
+    "notifications.order": "Mises à jour des commandes",
+    "notifications.billing": "Rappels de facturation",
+    "notifications.promos": "Promotions et mises à jour"
+  },
+  "security": {
+    "security": "Sécurité",
+    "authentication": "Authentification à deux facteurs",
+    "password": "Mot de Passe",
+    "currentPassword": "Mot de passe actuel",
+    "newPassword": "Nouveau mot de passe",
+    "confirmPassword": "Confirmer le mot de passe"
+  },
+  "paymentPlan": {
+    "title": "Sélectionnez un plan de paiement",
+    "cancel": "Annuler",
+    "confirm": "Confirmer et finaliser la précommande",
+    "options": {
+      "prepayment": {
+        "label": "Paiement 100% anticipé",
+        "description": "Le paiement complet est effectué avant la livraison des marchandises."
+      },
+      "cod": {
+        "label": "Paiement à la livraison (COD)",
+        "description": "Le paiement est collecté directement lors de la livraison des marchandises."
+      },
+      "installments": {
+        "label": "Paiements mensuels",
+        "description": "Les paiements sont divisés en montants égaux chaque mois jusqu'à ce que le total soit couvert."
+      },
+      "30days": {
+        "label": "Paiement à 30 jours",
+        "description": "Le paiement total est dû dans les 30 jours à compter de la date de facturation."
+      },
+      "60days": {
+        "label": "Paiement à 60 jours",
+        "description": "Le paiement doit être effectué dans un délai de 60 jours à compter de la date de facturation."
+      },
+      "deferred": {
+        "label": "Paiement différé",
+        "description": "Le paiement est prévu à une date ultérieure convenue lors de la transaction."
+      }
+    }
+  },
+  "sidebar": {
+    "dashboard": "Tableau de bord",
+    "productManagement": "Gestion des produits",
+    "productList": "Liste des produits",
+    "productClassification": "Classification des produits",
+    "orders": "Commandes",
+    "orderList": "Commandes",
+    "billing": "Facturation et Comptabilité",
+    "financialOverview": "Aperçu financier",
+    "clientManagement": "Gestion des clients",
+    "clientCategory": "Catégorie de client",
+    "clientList": "Liste des clients",
+    "userManagement": "Gestion des utilisateurs",
+    "heatmap": "Cartographie",
+    "reportsAndStats": "Rapports et statistiques",
+    "notifications": "Notifications",
+    "accountSettings": "Compte & Paramètres",
+    "helpSupport": "Aide & Support",
+    "documents": {
+      "dataLibrary": "Bibliothèque de données",
+      "reports": "Rapports",
+      "wordAssistant": "Assistant de rédaction"
+    },
+    "clouds": {
+      "capture": "Capture",
+      "proposal": "Proposition",
+      "prompts": "Invites",
+      "activeProposals": "Propositions actives",
+      "archived": "Archivées"
+    },
+    "companyLogoAlt": "Logo de l’entreprise"
+  },
+  "distrib": {
+    "title": "Bienvenue, {{name}}",
+    "description": "Suivez les commandes, gérez les produits et développez votre entreprise en toute simplicité.",
+    "stats": {
+      "totalOrdersThisMonth": "Commandes totales ce mois",
+      "pendingPreorders": "Précommandes en attente",
+      "confirmedOrders": "Commandes confirmées",
+      "revenueGenerated": "Revenu généré (Fcfa)",
+      "vsLastMonth": "par rapport au mois dernier",
+      "totalProducts": "Total produits",
+      "totalClients": "Total clients",
+      "totalOrders": "Total commandes",
+      "totalNotifications": "Total notifications"
+    }
+  },
+  "chart": {
+    "title": "Tendances des revenus",
+    "seeAll": "Voir toutes les statistiques",
+    "month": "Mois"
+  },
+  "months": {
+    "january": "Janvier",
+    "february": "Février",
+    "march": "Mars",
+    "april": "Avril",
+    "may": "Mai",
+    "june": "Juin"
+  },
+  "topSelling": {
+    "title": "Produits les plus vendus",
+    "button": "Voir tous les produits",
+    "available": "Disponible",
+    "unavailable": "Indisponible",
+    "sold": "{{count}} Kg vendus",
+    "remaining": "{{count}} Kg restants",
+    "products": {
+      "Tomatoes": "Tomates",
+      "Rice (5kg Bag)": "Riz (sac de 5kg)",
+      "Organic Carrots": "Carottes bio",
+      "Wheat Flour (50kg Sack)": "Farine de blé (sac de 50kg)"
+    }
+  },
+  "filters": {
+    "btn": "Classification des produits",
+    "dialog": "Filtres pour : Classification des produits",
+    "dialogdescription": "Affichez les résultats en fonction du filtre que vous sélectionnez ici.",
+    "all": "Tous",
+    "available": "Disponible",
+    "unavailable": "Indisponible",
+    "search": "Rechercher...",
+    "btncreate": "Créer un produit",
+    "product": "Liste des produits",
+    "productcode": "Code produit",
+    "productname": "Nom du produit",
+    "productquantity": "Quantité Disponible",
+    "productavailability": "Disponibilité",
+    "productprice": "Prix",
+    "productstatus": "Statut",
+    "active": "Actif",
+    "inactive": "Inactif",
+    "btnedit": "Modifier",
+    "btndelete": "Supprimer",
+    "btnimport": "Importer un produit",
+    "productnametable": {
+      "Whole Milk (1L)": "Lait entier (1L)",
+      "Fresh Tomatoes": "Tomates fraîches",
+      "Canned Fish": "Poisson en conserve"
+    }
+  },
+  "modal": {
+    "delete.title": "Confirmer la suppression",
+    "delete.description": "Es-tu sûr de vouloir supprimer le produit {{productName}} ? Cette action est irréversible.",
+    "delete.cancel": "Annuler",
+    "delete.confirm": "Supprimer",
+    "delete.cancel.aria": "Annuler la suppression de {{productName}}",
+    "delete.confirm.aria": "Confirmer la suppression de {{productName}}"
+  },
+  "editproduct": {
+    "backToList": "Retour à la liste des produits",
+    "title": "Modifier le produit",
+    "description": "Description",
+    "titleLabel": "Titre",
+    "defaultTitle": "Chips Lays Classiques 150g",
+    "productDescriptionLabel": "Description du produit",
+    "charactersLeft": "caractères restants",
+    "pricingSectionTitle": "Tarification (Fcfa)",
+    "pricingSectionNote": "Veuillez entrer le prix unitaire du produit pour chaque catégorie de client enregistré.",
+    "viewSavedCategories": "Voir les catégories enregistrées ?",
+    "quantityFrom": "Quantité minimale (unité)",
+    "quantityTo": "Quantité maximale (unité)",
+    "unitPrice": "Prix unitaire",
+    "btn": "Ajouter une catégorie",
+    "productIdTitle": "ID du produit",
+    "productTypeLabel": "Type de produit",
+    "productTypeValue": "Alimentaire",
+    "codeLabel": "Code :",
+    "productOriginCodeLabel": "Code d'origine du produit",
+    "productOriginCodeValue": "00",
+    "originCodeHint": "'00' pour les produits importés\n'50' pour les produits locaux",
+    "productCategoryLabel": "Catégorie du produit",
+    "productCategoryPlaceholder": "Choisir une catégorie de produit",
+    "productSubcategoryLabel": "Sous-catégorie du produit",
+    "productSubcategoryPlaceholder": "Choisir une sous-catégorie de produit",
+    "finalCodeLabel": "Code final",
+    "status": "Statut",
+    "active": "Actif",
+    "inactive": "Inactif",
+    "btnDiscard": "Modifier",
+    "btnSave": "Supprimer",
+    "stock": "Paramètres de stock",
+    "available": "Quantité disponible",
+    "moqTitle": "Quantité minimale (MOQ)",
+    "moqDescription": "Veuillez saisir la quantité minimale de commande (MOQ) pour le produit pour chaque catégorie de client enregistrée.",
+    "moqViewSavedCategories": "Voir les catégories enregistrées ?",
+    "img": "Image Produit",
+    "upload": "Cliquer pour importer",
+    "dragimage": "ou glisser et lacher",
+    "categoryhotel": "Hôtel",
+    "categoryindividual": "Individuel",
+    "categoryrestaurant": "Restaurant",
+    "categorysupermarket": "Supermarché"
+  },
+  "productclassification": {
+    "title": "Classification des produits",
+    "description": "Organisez vos produits en types, catégories et sous-catégories pour une meilleure gestion.",
+    "create": "Créer une classification de produit",
+    "title1": "Classification des produits",
+    "description1": "Définissez la structure et la hiérarchie de vos produits pour une meilleure classification et un meilleur suivi.",
+    "producttype": "Type de produit",
+    "productcategory": "Catégorie de produit",
+    "productsubcategory": "Sous-catégorie de produit",
+    "uniqueproduct": "Produit unique",
+    "cancel": "Annuler",
+    "createbutton": "Créer",
+    "save": "Enregistrer",
+    "dialogdescription": "Définissez les détails pour votre {{type}}.",
+    "producttypename": "Nom du type de produit",
+    "producttypecode": "Code du type de produit",
+    "producttypedescription": "Description du type de produit",
+    "producttypeincludes": "Catégories de produits incluses",
+    "productcategoryname": "Nom de la catégorie de produit",
+    "productcategorycode": "Code de la catégorie de produit",
+    "productcategorydescription": "Description de la catégorie de produit",
+    "productsubcategoryinclude": "Sous-catégories incluses",
+    "productcategoryparenttype": "Type de produit parent auquel appartient cette catégorie",
+    "subcategoryname": "Nom de la sous-catégorie de produit",
+    "subcategorycode": "Code de la sous-catégorie de produit",
+    "subcategorydescription": "Description de la sous-catégorie de produit",
+    "subcategoryparentcategory": "Catégorie parente de la sous-catégorie",
+    "subcategoryproductinclude": "Produits uniques inclus",
+    "subcategoryparentproductcategory": "Catégorie de produit parente",
+    "uniquename": "Nom du produit",
+    "uniqueid": "ID du produit",
+    "uniquebelongs": "Appartient à la sous-catégorie",
+    "productType": "Type de produit",
+    "category": "Catégorie",
+    "subcategory": "Sous-catégorie",
+    "uniqueProduct": "Produit unique",
+    "general": "Général",
+    "details": "Détails {{tab}}",
+    "searchPlaceholder": "Rechercher par nom ou code",
+    "categoriesLabel": "{{count}} catégories",
+    "noResults": "Aucun résultat trouvé.",
+    "numberOf": "Nombre de {{tab}} :",
+    "totalCount": "{{count, pad}}",
+    "productType.beverages": "Boissons",
+    "productType.food": "Aliments",
+    "productType.electronics": "Électronique",
+    "productType.clothing": "Vêtements",
+    "productType.furniture": "Meubles",
+    "productType.health": "Santé",
+    "productType.toys": "Jouets",
+    "productType.beauty": "Beauté",
+    "productType.beautyAndPersonalCare": "Beauté et soins personnels",
+    "category.a": "Catégorie A",
+    "category.b": "Catégorie B",
+    "category.c": "Catégorie C",
+    "subcategory.x": "Sous-catégorie X",
+    "subcategory.y": "Sous-catégorie Y",
+    "uniqueProduct.001": "Produit 001",
+    "uniqueProduct.002": "Produit 002"
+  },
+  "orderpage": {
+    "title": "Liste des commandes",
+    "description": "Gérez vos commandes, suivez les paiements et explorez les catalogues des fournisseurs en toute simplicité.",
+    "create": "Create an Order",
+    "amount": "Montant",
+    "date": "Date de précommande",
+    "search": "Recherche...",
+    "customername": "Nom du client",
+    "items": "Articles",
+    "totalprice": "Prix total (FCFA)",
+    "status": "Statut de commande",
+    "quickactions": "Actions rapides",
+    "orderid": "ID de commande",
+    "orderlist": "Liste des commandes",
+    "searchplaceholder": "Rechercher...",
+    "export": "Exporter les commandes",
+    "addnew": "Ajouter une commande",
+    "details": "Détails de la commande",
+    "tracking": "Suivi de la commande",
+    "projectid": "ID du projet :",
+    "creationdate": "Date de création :",
+    "cost": "Coût du projet :",
+    "trackingstatus": "Statut :",
+    "deliverystage": "Étape de livraison :",
+    "deliveryinfo": "Livré au lieu de retrait",
+    "route": "Itinéraire :",
+    "contact": "Contact du transporteur :",
+    "seemore": "Voir plus",
+    "seeless": "Voir moins",
+    "orderList": "Retour à la liste des commandes"
+  },
+  "orderstatus": {
+    "status": {
+      "InPreparation": "En préparation",
+      "InTransit": "En transit",
+      "Pre-order": "Précommande",
+      "Delivered": "Livré"
+    }
+  },
+  "billingaccounting": {
+    "title": "Aperçu financier",
+    "description": "Suivez les factures, les paiements, les dépenses et la trésorerie en un seul endroit.",
+    "manage": "Gérer la catégorie de dépenses."
+  },
+  "tabs": {
+    "expenses": "Dépenses",
+    "treasury": "Trésorerie",
+    "reports": "Rapports"
+  },
+  "expense": {
+    "placeholder": "Filtre par catégorie",
+    "category.adminFees": "Frais administratifs",
+    "category.reimbursements": "Remboursements",
+    "category.storage": "Frais de stockage",
+    "category.exceptional": "Dépenses exceptionnelles",
+    "placeholder.category": "Catégorie",
+    "placeholder.date": "Date",
+    "placeholder.amountRange": "Plage de montant",
+    "button.reset": "Réinitialiser",
+    "button.export": "Exporter vers Excel",
+    "button.add": "+ Ajouter une dépense",
+    "table.title": "Liste des dépenses",
+    "table.date": "Date",
+    "table.category": "Catégorie",
+    "table.description": "Description",
+    "table.amount": "Montant (FCFA)",
+    "table.attachment": "Pièce jointe",
+    "table.actions": "Actions",
+    "pagination.next": "Suivant »"
+  },
+  "expense1": {
+    "category": {
+      "adminFees": "Administrative",
+      "reimbursements": "Reimbursements",
+      "storage": "Storage Fees",
+      "exceptional": "Exceptional Expenses"
+    }
+  },
+  "clientCategory": {
+    "title": "Catégorie de client",
+    "description": "Définissez les catégories de clients et ajustez les prix pour un fonctionnement commercial fluide.",
+    "informationTitle": "Informations sur la catégorie de client",
+    "informationDescription": "Cliquez sur une catégorie ci-dessous. Chacune d'elles a sa propre structure tarifaire affichée lors de la sélection.",
+    "clients": "{{count}} Clients",
+    "viewPrices": "Voir les prix des produits",
+    "productsTitle": "Prix des produits",
+    "productsDescription": "Consultez ci-dessous les prix des produits applicables aux clients de la catégorie {{category}}.",
+    "lockPrices": "Verrouiller les prix",
+    "editPrices": "Modifier les prix",
+    "ok": "OK",
+    "addCategory": "Ajouter une nouvelle catégorie",
+    "addCategoryDescription": "Veuillez entrer le titre de la catégorie que vous souhaitez créer.",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "note": "Remarque : les prix des produits varient selon la catégorie de client. Par exemple, les produits auront des prix différents pour les restaurants, les hôtels et les particuliers, etc.",
+    "categories.restaurant": "Restaurant",
+    "categories.individual": "Individuel",
+    "categories.hotel": "Hôtel",
+    "categories.retailer": "détaillant",
+    "categories.agribusiness": "Agribusiness",
+    "categories.distributor": "Distributeur",
+    "categories.gasStation": "Station service"
+  },
+  "clientlist": {
+    "title": "Liste des Clients",
+    "description": "MGérez vos clients, suivez les paiements et explorez les catalogues de fournisseurs en toute simplicité.",
+    "all": "Tous",
+    "restaurant": "Restaurant",
+    "individual": "Individuel",
+    "retailer": "Détaillant",
+    "hotel": "Hôtel",
+    "active": "Actif",
+    "inactive": "Inactif",
+    "suspended": "Suspendu",
+    "reset": "Réinitialiser",
+    "searchPlaceholder": "Rechercher par nom ou identifiant du client",
+    "createRetailer": "Créer un compte détaillant",
+    "userType": "Type d'utilisateur",
+    "userTypeDescription": "Veuillez indiquer le type d'utilisateur que vous souhaitez ajouter.",
+    "clientList": "Liste des clients",
+    "clientId": "ID Client",
+    "clientName": "Nom du client",
+    "category": "Catégorie",
+    "contactInfo": "Informations de contact",
+    "status": "Statut",
+    "address": "Adresse",
+    "actions": "Actions rapides",
+    "lastPurchase": "Dernier achat",
+    "personAccount": "Compte personnel",
+    "personAccountDesc": "Un seul type d'utilisateur",
+    "companyAccount": "Compte entreprise",
+    "companyAccountDesc": "Utilisation par plusieurs utilisateurs",
+    "cancel": "Annuler",
+    "continue": "Continuer",
+    "createRetailerAccount": "Créer un compte distributeur",
+    "btn": "Créer un compte distributeur"
+  },
+  "usermanagement": {
+    "userManagementTitle": "Gestion des utilisateurs",
+    "userManagementDescription": "Gérez les rôles et les permissions des utilisateurs",
+    "userRolePlaceholder": "Rôle de l'utilisateur",
+    "reset": "Réinitialiser",
+    "roleDescription": "Description du rôle",
+    "roleDescriptionsTitle": "Descriptions des rôles",
+    "roleDescriptionsDesc": "Découvrez les différents rôles et leurs permissions sur la plateforme.",
+    "addNewUser": "+ Ajouter un nouvel utilisateur",
+    "inviteNewUserTitle": "Inviter un nouvel utilisateur",
+    "inviteNewUserDesc": "Entrez les informations de l’utilisateur et attribuez un rôle. Un email d’invitation sera envoyé une fois confirmé.",
+    "assignRoleTitle": "Attribuer un rôle",
+    "columnName": "Nom",
+    "columnEmail": "Email",
+    "columnRole": "Rôle",
+    "editUserRoleTitle": "Modifier le rôle utilisateur",
+    "editUserRoleDesc": "Mettez à jour le rôle attribué à cet utilisateur. Les changements seront appliqués immédiatement.",
+    "removeUserAccessTitle": "Supprimer l'accès utilisateur",
+    "removeUserAccessDesc": "Êtes-vous sûr de vouloir supprimer cet utilisateur ? Il perdra l'accès à la plateforme.",
+    "cancel": "Annuler",
+    "confirmRemoval": "Confirmer la suppression",
+    "next": "Suivant",
+    "admin": "Administrateur",
+    "supportAgent": "Agent de support",
+    "accountant": "Comptable",
+    "roles": {
+      "Admin": "Administrateur",
+      "Support Agent": "Agent de support",
+      "Accountant": "Comptable"
+    }
+  },
+  "roles": {
+    "admin": {
+      "title": "Administrateur",
+      "subtitle": "Accès complet à la plateforme",
+      "description": "Les administrateurs ont un contrôle total sur toutes les fonctionnalités de la plateforme. Ils peuvent gérer tous les paramètres, utilisateurs et configurations."
+    },
+    "support": {
+      "title": "Agent de support",
+      "subtitle": "Rôle d'assistance client",
+      "description": "Les agents de support traitent les demandes des clients et gèrent les commandes. Ils se concentrent principalement sur l’assistance, mais n’ont pas accès aux données financières sensibles ou de configuration."
+    },
+    "accountant": {
+      "title": "Comptable",
+      "subtitle": "Rôle de gestion financière",
+      "description": "Les comptables gèrent les dossiers financiers et supervisent la facturation. Ils ont accès aux données financières, aux factures et aux rapports, mais ne peuvent pas gérer les fonctionnalités opérationnelles."
+    },
+    "button": "Compris"
+  },
+  "edituser": {
+    "fullname": "Nom complet",
+    "email": "E-mail",
+    "role": "Rôle",
+    "cancel": "Annuler",
+    "save": "Enregistrer les modifications",
+    "successTitle": "Rôle mis à jour avec succès",
+    "successMessage": "Le rôle a été mis à jour avec succès. Les modifications ont pris effet immédiatement.",
+    "close": "Fermer",
+    "roles": {
+      "admin": "Admin",
+      "user": "Utilisateur",
+      "accountant": "Comptable",
+      "support": "Agent de support"
+    }
+  },
+  "signup": {
+    "signupTitle": "Créez votre compte",
+    "signupDesc": "Inscrivez-vous pour commencer à faire vos achats sur Diisty.",
+    "personnalInfo": "Informations personnelles",
+    "companyInfo": "Informations de la compagnie",
+    "personnalfields": "Vérifiez et remplissez tous les champs.",
+    "firstName": "Prénom*",
+    "lastName": "Nom*",
+    "email": "Adresse e-mail*",
+    "phone": "Numéro de téléphone*",
+    "compteexist": "Vous avez déjà un compte ?",
+    "signin": "Se connecter",
+    "select": "Sélectionnez une catégorie et vérifiez la correspondance des mots de passe.",
+    "company": "Nom de la compagnie*",
+    "companycategory": "Catégorie de la compagnie*",
+    "companyphone": "Téléphone de la compagnie*",
+    "companyemail": "E-mail de la compagnie*",
+    "password": "Mot de passe*",
+    "confirmpassword": "Confirmer le mot de passe*"
+  },
+  "login": {
+    "btnlogin": "Se connecter",
+    "btnsignup": "S'inscrire",
+    "welcome": "Bienvenue de nouveau !",
+    "manage": "Connectez-vous pour gérer vos achats et votre compte.",
+    "email": "Adresse e-mail",
+    "password": "Mot de passe",
+    "remember": "Se souvenir de moi",
+    "forgot": "Mot de passe oublié ?",
+    "fill": "Remplissez tous les champs.",
+    "account": "Vous n'avez pas de compte ?"
+  },
+  "navbar": {
+    "home": "Accueil",
+    "about": "Nos Atouts",
+    "products": "Nos Produits",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "loader": {
+    "title": "Patienter un instant...",
+    "text": "Nous chargeons la page pour vous."
+  },
+  "sendingLoader": {
+    "title": "Envoi du lien de réinitialisation...",
+    "subtitle": "Vérifiez votre boîte de réception sous peu"
+  },
+  "loginLoader": {
+    "title": "Connexion en cours...",
+    "subtitle": "Veuillez patienter pendant que nous vérifions vos identifiants"
+  },
+  "purchaseAction": {
+    "viewDetails": "Voir les détails",
+    "viewInvoice": "Voir la facture"
+  },
+  "recordCashIn": {
+    "sourceLabel": "Source",
+    "sourcePlaceholder": "Client",
+    "paymentMethod": "Méthode de paiement",
+    "selectPaymentMethod": "Sélectionner une méthode",
+    "bankTransfer": "Virement bancaire",
+    "cash": "Espèces",
+    "mobileMoney": "Mobile Money",
+    "amountLabel": "Montant (XAF)",
+    "amountPlaceholder": "45 000",
+    "dateLabel": "Date de la transaction",
+    "pickDate": "Choisir une date",
+    "statusLabel": "Statut",
+    "selectStatus": "Sélectionner un statut",
+    "cleared": "Réglé",
+    "pending": "En attente",
+    "cancel": "Annulé",
+    "supportingDoc": "Document justificatif (optionnel)",
+    "uploadPrompt": "Cliquez pour téléverser",
+    "uploadAlt": "ou glissez et déposez",
+    "uploadNote": "JPEG, PNG et PDF",
+    "cancelBtn": "Annuler",
+    "saveBtn": "Enregistrer",
+    "successTitle": "Entrée de trésorerie enregistrée avec succès",
+    "successMessage": "Votre entrée de trésorerie a été enregistrée et ajoutée à vos comptes.",
+    "viewCashFlow": "Voir la trésorerie"
+  },
+  "reports": {
+    "title": "Téléchargez des rapports récapitulatifs de votre activité financière à des fins comptables ou de partage."
+  },
+  "forgot": {
+    "back": "Retour",
+    "noAccount": "Vous n'avez pas de compte ?",
+    "signup": "Créer un compte",
+    "title": "Mot de passe oublié ?",
+    "description": "Entrez votre adresse email pour recevoir les instructions.",
+    "inputPlaceholder": "Entrez votre adresse email",
+    "button": "Recevoir l'email de vérification",
+    "message": "Si votre compte existe, vous recevrez un e-mail à cette adresse pour le récupérer.",
+    "error": "Une erreur s'est produite. Veuillez réessayer."
+  },
+  "createPassword": {
+    "back": "Retour",
+    "noAccount": "Vous n’avez pas de compte ?",
+    "signup": "Créer un compte",
+    "title": "Créer un nouveau mot de passe",
+    "passwordLabel": "Mot de passe",
+    "passwordPlaceholder": "Entrez le mot de passe",
+    "confirmPasswordLabel": "Confirmer le mot de passe",
+    "confirmPasswordPlaceholder": "Confirmez le mot de passe",
+    "errorShort": "Le mot de passe doit comporter au moins 8 caractères.",
+    "errorMismatch": "Les mots de passe ne correspondent pas.",
+    "button": "Définir votre nouveau mot de passe",
+    "dialogTitle": "Terminé !",
+    "dialogDesc": "Votre mot de passe a été réinitialisé avec succès.",
+    "ok": "Ok"
+  },
+  "validateInvitation": {
+    "title": "Confirmer mon invitation",
+    "supplier": "Fournisseur",
+    "company": "Ma compagnie",
+    "name": "Nom",
+    "email": "Email",
+    "password": "Mot de passe *",
+    "confirmPassword": "Confirmer le mot de passe *",
+    "validate": "Confirmer",
+    "successMessage": "Compte client créé avec succès."
+  },
+  "addproduct": {
+    "btnbackclassification": "Retour à la classification",
+    "btnback": "Retour à la liste des produits",
+    "title": "Titre",
+    "description": "Description du produit",
+    "charaters": "{{count}} caractères restants",
+    "price": "Tarification",
+    "message": "Veuillez entrer le prix unitaire du produit pour chaque catégorie de client enregistrée.",
+    "save": "Voir les catégories enregistrées ?",
+    "quantity": "Quantité minimale (Unité)",
+    "quantityTo": "Quantité maximale (Unité)",
+    "unitprice": "Prix unitaire",
+    "btn": "Ajouter un palier",
+    "productstock": "Paramètres de stock",
+    "available": "Quantité disponible",
+    "productdescription": "Veuillez entrer la quantité minimale de commande (MOQ) du produit pour chaque catégorie de client enregistrée.",
+    "category": "Voir les catégories enregistrées ?",
+    "productimg": "Image du produit",
+    "productclick": "Cliquez pour téléverser",
+    "productdrog": "ou glissez-déposez",
+    "productStatus": "Statut",
+    "productid": "ID du produit",
+    "producttype": "Type de produit",
+    "productcode": "Code d’origine du produit",
+    "productimported": "'00' pour les produits importés",
+    "productlocal": "'50' pour les produits locaux",
+    "productcategory": "Catégorie du produit",
+    "productschoose": "Choisir une catégorie de produit",
+    "productsubcategory": "Sous-catégorie du produit",
+    "productschoose1": "Choisir une sous-catégorie",
+    "productfinal": "Code final",
+    "active": "Actif",
+    "inactive": "Inactif",
+    "unit": "Unité",
+    "unitPrice": "Prix unitaire",
+    "availableQuantity": "Quantité disponible",
+    "minimumOrderQuantity": "Quantité minimal par commande",
+    "minimumOrderingPrice": "Prix minimal par commande",
+    "maximumOrderingPrice": "Prix maximal par commande",
+    "btnDiscard": "Annuler",
+    "btnSave": "Enregistrer les modifications"
+  },
+  "addcategory": {
+    "title": "Ajouter une nouvelle catégorie",
+    "categoryname": "Nom de la catégorie",
+    "categorynamePlaceholder": "Entrez le nom de la catégorie",
+    "description": "Description",
+    "descriptionOptional": "(optionnel)",
+    "descriptionPlaceholder": "Voyage, nourriture, etc.",
+    "cancel": "Annuler",
+    "add": "Ajouter la catégorie"
+  },
+  "addexpense": {
+    "title": "Ajouter une nouvelle dépense",
+    "info": "Informations sur la dépense",
+    "expenseTitle": "Titre de la dépense",
+    "expenseCategory": "Catégorie de dépense",
+    "amount": "Montant (XAF)",
+    "payment": "Détails du paiement",
+    "paymentMethod": "Méthode de paiement",
+    "paymentDate": "Date de paiement",
+    "notes": "Remarques (optionnel)",
+    "char": "{{count}} caractères restants",
+    "document": "Document justificatif (optionnel)",
+    "clickUpload": "Cliquez pour télécharger",
+    "orDrop": "ou glissez-déposez (JPEG, PNG, PDF)",
+    "cancel": "Annuler",
+    "save": "Enregistrer la dépense",
+    "successTitle": "Dépense enregistrée avec succès",
+    "successDesc": "Votre dépense a été enregistrée et ajoutée à vos comptes.",
+    "viewAll": "Voir toutes les dépenses",
+    "utilities": "Services publics",
+    "travel": "Voyage",
+    "supplies": "Fournitures",
+    "other": "Autre",
+    "bank": "Virement bancaire",
+    "cash": "Espèces",
+    "mobile": "Mobile Money"
+  },
+  "clientaction": {
+    "view": "Voir le profil",
+    "history": "Historique d'achat",
+    "delete": "Supprimer",
+    "confirm": "Confirmer la suppression",
+    "description": "Êtes-vous sûr de vouloir supprimer ce type de produit ? Cette action est irréversible.",
+    "cancel": "Annuler",
+    "confirmDelete": "Supprimer"
+  },
+  "confirmpreorder": {
+    "title": "Précommande confirmée avec succès",
+    "description": "La précommande a été confirmée et envoyée au détaillant. Vous pouvez consulter les détails de la commande à tout moment dans votre historique.",
+    "button": "Voir toutes les commandes"
+  },
+  "retailer": {
+    "changeAvatar": "Changer l'avatar",
+    "changeUserType": "Changer le type d'utilisateur",
+    "companyName": "Nom de l'entreprise",
+    "registrationNumber": "Numéro d'immatriculation",
+    "companyCategory": "Catégorie d'entreprise",
+    "selectCategory": "Sélectionner une catégorie",
+    "fastFood": "Restauration rapide",
+    "restaurant": "Restaurant",
+    "retail": "Commerce de détail",
+    "companyAddress": "Adresse de l'entreprise",
+    "fullName": "Nom complet",
+    "email": "E-mail",
+    "phoneNumber": "Numéro de téléphone",
+    "shopLocation": "Localisation de la boutique",
+    "autolocate": "Me localiser automatiquement",
+    "longitude": "Longitude",
+    "latitude": "Latitude",
+    "cancel": "Annuler",
+    "saveAndInvite": "Enregistrer et inviter le revendeur"
+  },
+  "productsclassification": {
+    "actions": {
+      "edit": "Modifier",
+      "view": "Voir les détails",
+      "delete": "Supprimer",
+      "cancel": "Annuler",
+      "save": "Enregistrer les modifications"
+    },
+    "edit": {
+      "title": "Modifier le type de produit",
+      "name": "Nom du type de produit",
+      "code": "Code du type de produit",
+      "description": "Description",
+      "optional": "Optionnel",
+      "charsLeft": "caractères restants",
+      "defaultDescription": "Hendrerit nisi phasellus cras odio. Sed suscipit lectus eget nisl cursus massa. Mauris consectetur amet nulla tristique cras blandit. Sem tellus enim donec tortor viverra urna tellus enim."
+    },
+    "delete": {
+      "title": "Confirmer la suppression",
+      "description": "Es-tu sûr de vouloir supprimer ce type de produit ? Cette action est irréversible."
+    }
+  },
+  "editexpense": {
+    "title": "Modifier la dépense",
+    "expenseinfo": "Informations sur la dépense",
+    "expensetitle": "Titre de la dépense",
+    "category": "Catégorie de dépense",
+    "utilities": "Services publics",
+    "travel": "Déplacement",
+    "supplies": "Fournitures",
+    "other": "Autre",
+    "amount": "Montant (XAF)",
+    "paymentdetails": "Détails du paiement",
+    "method": "Méthode de paiement",
+    "mobile": "Mobile Money",
+    "bank": "Virement bancaire",
+    "cash": "Espèces",
+    "date": "Date de paiement",
+    "docsnotes": "Documents justificatifs & Notes",
+    "notes": "Notes (Optionnel)",
+    "charsleft": "{{count}} caractères restants",
+    "uploadlabel": "Document justificatif (Optionnel)",
+    "clickupload": "Cliquez pour téléverser",
+    "or": "ou glissez-déposez (JPEG, PNG, PDF)",
+    "cancel": "Annuler",
+    "save": "Enregistrer la dépense",
+    "savedtitle": "Dépense enregistrée avec succès",
+    "saveddesc": "Votre dépense a été enregistrée et ajoutée à vos comptes.",
+    "view": "Voir toutes les dépenses"
+  },
+  "paymentplan": {
+    "successTitle": "Plan de paiement envoyé avec succès",
+    "successDescription": "Le plan de paiement a été proposé avec succès au détaillant.",
+    "okButton": "OK"
+  },
+  "availability": {
+    "updateTitle": "Mettre à jour la disponibilité des produits",
+    "updateDescription": {
+      "part1": "Vérifiez les quantités demandées et ajustez en fonction du",
+      "link": "stock actuel"
+    },
+    "tableTitle": "Tableau des produits",
+    "headers": {
+      "productName": "Nom du produit",
+      "requestedQty": "Qté demandée",
+      "availableQty": "Qté disponible (modifiable)"
+    },
+    "products": {
+      "Chicken Breast": "Blanc de poulet",
+      "Tomato Paste": "Concentré de tomate"
+    },
+    "enterQuantity": "Saisir la quantité",
+    "notesLabel": "Notes (optionnel)",
+    "notesPlaceholder": "Seules des quantités partielles sont disponibles. Merci de vérifier et confirmer.",
+    "charactersLeft": "caractères restants",
+    "cancel": "Annuler",
+    "sendButton": "Envoyer la mise à jour",
+    "successTitle": "Disponibilité mise à jour avec succès !",
+    "successDescription": "La disponibilité des produits a été mise à jour et le client a été notifié.",
+    "ok": "Ok"
+  },
+  "management": {
+    "title": "Liste des produits",
+    "productcode": "Code produit",
+    "productname": "Nom du produit",
+    "available": "Quantité disponible",
+    "availability": "Disponibilité",
+    "price": "Plage de prix",
+    "status": "Statut",
+    "action": "Actions"
+  },
+  "filterdistrib": {
+    "title": "Filtre",
+    "btnapplied": "appliqué",
+    "select": "Sélectionnez des options pour",
+    "filter": "Sélectionnez un filtre dans le panneau de gauche pour l'afficher",
+    "results": "Résultats",
+    "products": "Produits",
+    "btncancel": "Annuler",
+    "appliedfilters": "Appliquer les filtres"
+  },
+  "report": {
+    "placeholder": {
+      "type": "Type",
+      "date": "Entrez une date (JJ/MM/AAAA)"
+    },
+    "actions": {
+      "reset": "Réinitialiser",
+      "generate": "Générer un nouveau rapport",
+      "download": "Télécharger"
+    },
+    "title": "Rapports précédents",
+    "table": {
+      "date": "Date",
+      "type": "Type",
+      "period": "Période",
+      "link": "Liens des rapports"
+    },
+    "pagination": {
+      "previous": "Précédent",
+      "next": "Suivant"
+    },
+    "type": {
+      "Daily Summary": "Résumé quotidien",
+      "Cash Flow Report": "Rapport de trésorerie",
+      "Weekly Expense Report": "Rapport de dépenses hebdomadaire",
+      "Monthly Summary": "Résumé mensuel"
+    }
+  },
+  "treasury": {
+    "description": "Obtenez un aperçu de votre flux de trésorerie actuel, des soldes bancaires et des mouvements de fonds.",
+    "reset": "Réinitialiser",
+    "export": "Exporter vers Excel",
+    "type": "Type",
+    "source/category": "Source/Catégorie",
+    "amount": "Montant",
+    "payment": "Méthode de paiement",
+    "status": "Statut",
+    "transactions": "Aucune transaction trouvée.",
+    "next": "Suivant",
+    "actions": {
+      "recordcashin": "Enregistrer une entrée de trésorerie"
+    }
+  },
+  "reportsummary": {
+    "daily": "Résumé quotidien",
+    "weekly": "Résumé hebdomadaire",
+    "monthly": "Résumé mensuel",
+    "other": "Autre",
+    "reportsavailable": "rapports disponibles"
+  },
+  "paymentplans": {
+    "title": "Choisissez un plan de paiement",
+    "cancel": "Annuler",
+    "confirm": "Confirmer et envoyer au détaillant",
+    "prepayment": {
+      "label": "Paiement anticipé à 100%",
+      "description": "Le paiement complet est effectué avant la livraison des marchandises."
+    },
+    "cod": {
+      "label": "Paiement à la livraison (COD)",
+      "description": "Le paiement est perçu directement à la livraison des marchandises."
+    },
+    "installments": {
+      "label": "Versements mensuels",
+      "description": "Les paiements sont répartis en montants égaux effectués chaque mois jusqu'au paiement total."
+    },
+    "30days": {
+      "label": "Paiement sous 30 jours",
+      "description": "Le paiement total est dû dans un délai de 30 jours à compter de la date de facturation."
+    },
+    "60days": {
+      "label": "Paiement sous 60 jours",
+      "description": "Le paiement doit être effectué dans un délai de 60 jours à compter de la date de facturation."
+    },
+    "deferred": {
+      "label": "Paiement différé",
+      "description": "Le paiement est prévu à une date future convenue lors de la transaction."
+    }
+  },
+  "pagination": {
+    "previous": "Précédent",
+    "next": "Suivant"
+  },
+  "orders": {
+    "totalPurchases": "Achats totaux",
+    "lastPurchaseDate": "Dernière date d'achat",
+    "orderList": "Liste des commandes",
+    "orderID": "ID Commande",
+    "preorderDate": "Date de précommande",
+    "customerName": "Nom du client",
+    "items": "Articles",
+    "totalPrice": "Prix total (FCFA)",
+    "status": "Statut",
+    "actions": "Actions rapides",
+    "seeMore": "Voir plus",
+    "seeLess": "Voir moins",
+    "statuses": {
+      "In Preparation": "En préparation",
+      "In Transit": "En transit",
+      "Pre-order": "Précommande",
+      "Delivered": "Livré"
+    }
+  },
+  "cart": {
+    "title": "Mon Panier",
+    "description": "Il n'y a pas encore de produits dans votre panier.",
+    "select": "Sélectionnez les articles souhaités à gauche.",
+    "total": "Prix Total",
+    "preorder": "Précommander Maintenant",
+    "confirm": "Confirmer votre précommande",
+    "assign": "Attribuer à un client/détaillant existant",
+    "assignretailer": "Attribuer à un client/détaillant existant",
+    "messageplease": "Veuillez entrer le nom du détaillant pour lequel vous souhaitez passer la commande.",
+    "linkback": "Retour",
+    "btnok": "OK",
+    "customername": "Nom du Client",
+    "clientcategory": "Catégorie de Client",
+    "phone": "Numéro de Téléphone",
+    "email": "Adresse Email",
+    "mailing": "Adresse Postale",
+    "method": "Mode de Paiement",
+    "plan": "Plan de Paiement",
+    "cash": "Espèces",
+    "card": "Carte",
+    "mobile": "Paiement Mobile",
+    "btncancel": "Annuler",
+    "btnsave": "Enregistrer",
+    "special": "Instructions Spéciales",
+    "message": "Étant donné la nature périssable de nos produits, la disponibilité peut varier. Vous recevrez une mise à jour de disponibilité peu après la confirmation de votre précommande."
+  },
+  "upload": {
+    "title": "Téléversez votre fichier",
+    "description": "Téléversez votre fichier Excel (.xls, .xlsx) contenant les données produits.",
+    "click": "Cliquez pour téléverser",
+    "or": "ou glissez et déposez",
+    "only": "Uniquement .xls, .xlsx",
+    "cancel": "Annuler",
+    "import": "Importer les données",
+    "importing": "Importation...",
+    "successTitle": "Importation des produits réussie",
+    "successMessage": "Les produits sont maintenant visibles dans votre liste de produits.",
+    "back": "Retour à la liste des produits"
+  },
+  "balances": {
+    "title": "Solde de caisse et banque",
+    "cash": "Solde de caisse",
+    "funds": "Fonds totaux",
+    "bank": "Compte bancaire"
+  },
+  "confirmorder": {
+    "title": "Commande confirmée !",
+    "thanks": "Merci pour votre confirmation. Prochaines étapes :",
+    "step1": "1. Passez à la sélection du mode de paiement.",
+    "step2": "2. Choisissez votre plan de paiement préféré.",
+    "note": "Remarque : Vous serez notifié de toute mise à jour ultérieure.",
+    "continue": "Continuer vers le paiement"
+  },
+  "declineorder": {
+    "title": "Commande refusée",
+    "message": "Votre précommande a été annulée. Nous comprenons que les quantités n’aient pas répondu à vos attentes.",
+    "instruction": "Si vous souhaitez passer une nouvelle commande, veuillez visiter notre catalogue de produits.",
+    "continue": "Continuer vers le paiement",
+    "contact": "Contacter le fournisseur"
+  },
+  "expensescategory": {
+    "back": "Retour à la vue financière",
+    "title": "Catégories de dépenses",
+    "subtitle": "Définissez et maintenez une liste propre et personnalisée de catégories de dépenses",
+    "searchPlaceholder": "Rechercher par nom de catégorie...",
+    "add": "Ajouter une nouvelle catégorie",
+    "listTitle": "Liste des dépenses",
+    "table": {
+      "select": "Sélectionner",
+      "category": "Nom de la catégorie",
+      "description": "Description",
+      "number": "Nombre de dépenses utilisant",
+      "attachment": "Pièce jointe",
+      "actions": "Actions"
+    },
+    "paginationNext": "Suivant »"
+  },
+  "paymentmethod": {
+    "title": "Sélectionnez votre plan de paiement",
+    "subtitle": "Choisissez un plan de paiement adapté à vos besoins.",
+    "sectiontitle": "Plans de paiement",
+    "cancel": "Annuler",
+    "continue": "Continuer →",
+    "plans": {
+      "prepayment": {
+        "title": "Paiement anticipé à 100%",
+        "description": "Paiement complet effectué au moment de la commande."
+      },
+      "installments": {
+        "title": "Versements mensuels (paiements égaux)",
+        "description": "25% chaque mois pendant 4 mois."
+      },
+      "30days": {
+        "title": "Paiement sous 30 jours",
+        "description": "Paiement complet dû dans les 30 jours suivant la facture."
+      },
+      "60days": {
+        "title": "Paiement sous 60 jours",
+        "description": "Paiement complet dû dans les 60 jours suivant la facture."
+      },
+      "cod": {
+        "title": "Paiement à la livraison/retrait",
+        "description": "Paiement pratique à la livraison ou au retrait."
+      }
+    }
+  },
+  "paymentselection": {
+    "title": "Choisissez votre méthode de paiement",
+    "subtitle": "Pour poursuivre avec votre précommande confirmée, veuillez sélectionner un mode de paiement.",
+    "sectiontitle": "Méthode de paiement",
+    "cancel": "Annuler",
+    "continue": "Continuer →",
+    "methods": {
+      "bank": {
+        "title": "Virement bancaire",
+        "description": "Sûr et direct. Effectuez votre paiement dans les délais de virement de la banque."
+      },
+      "cash": {
+        "title": "Paiement à la livraison/retrait",
+        "description": "Paiement pratique à la livraison ou au retrait."
+      }
+    }
+  },
+  "notifications": {
+    "description": "Restez informé des actions importantes, des modifications de commande ou des demandes des détaillants grâce aux notifications en temps réel ici.",
+    "inbox": "Boîte de réception",
+    "update": "Mettre à jour la disponibilité",
+    "preorder": "Résumé de la précommande",
+    "pending": "En attente d'approbation",
+    "open": "Ouvrir les détails de la précommande",
+    "select": "Sélectionnez un message pour afficher les détails.",
+    "messages": {
+      "all": "Tous les messages",
+      "unread": "Non lus",
+      "read": "Lu"
+    }
+  },
+  "notificationsretailer": {
+    "description": "Recevez des mises à jour en temps réel sur les commandes, les paiements et les activités importantes.",
+    "decline": "Refuser la commande",
+    "confirm": "Confirmer la commande",
+    "select": "Sélectionnez un message pour afficher les détails."
+  },
+  "summarypayment": {
+    "customerDetails": "Détails du client",
+    "name": "Nom",
+    "email": "Email",
+    "phone": "Téléphone",
+    "orderInformation": "Informations de commande",
+    "orderId": "ID Commande",
+    "orderDate": "Date de commande",
+    "orderTotal": "Total commande",
+    "paymentStatus": "Statut du paiement",
+    "orderStatus": "Statut de la commande",
+    "paid": "Payé",
+    "pending": "En attente",
+    "failed": "Échoué",
+    "inPreparation": "En préparation",
+    "inTransit": "En cours de livraison",
+    "delivered": "Livrée",
+    "cancelled": "Annulée",
+    "productsOrdered": "Produits commandés",
+    "items": "Articles",
+    "pricePerUnit": "Prix unitaire",
+    "total": "Total",
+    "confirmPreorder": "Confirmer la précommande",
+    "suggestNewPaymentPlan": "Suggérer un nouveau plan de paiement",
+    "selectPaymentPlanTitle": "Sélectionner un plan de paiement pour le détaillant",
+    "selectPaymentPlanDescription": "Veuillez sélectionner le plan de paiement à proposer au client",
+    "selectPaymentPlanLabel": "Sélectionner un plan de paiement"
+  },
+  "createretailerform": {
+    "companyName": "Nom de l’entreprise",
+    "companyCategory": "Catégorie de l’entreprise",
+    "selectCategory": "Sélectionner une catégorie",
+    "companyAddress": "Adresse de l’entreprise",
+    "companyEmail": "Email de l’entreprise",
+    "companyPhone": "Téléphone de l’entreprise",
+    "contactPersonName": "Nom de la personne de contact",
+    "contactPersonEmail": "Email de la personne de contact",
+    "contactPersonPhone": "Téléphone de la personne de contact",
+    "changeAvatar": "Changer l’avatar",
+    "changeUserType": "Changer le type d’utilisateur",
+    "shopLocation": "Emplacement de la boutique",
+    "autolocateMe": "Me localiser automatiquement",
+    "longitude": "Longitude",
+    "latitude": "Latitude",
+    "cancel": "Annuler",
+    "saveAndInvite": "Enregistrer et inviter le revendeur",
+    "loadingTitle": "Traitement en cours",
+    "loadingMessage": "Veuillez patienter pendant la création du revendeur...",
+    "success": "Détaillant créé avec succès",
+    "error": "Une erreur s'est produite lors de la création du détaillant"
+  },
+
+  "inviteuser": {
+    "fullname": "Nom complet",
+    "email": "Adresse e-mail",
+    "password": "Mot de passe",
+    "phone": "Téléphone",
+    "category": "Catégorie",
+    "role": "Rôle",
+    "cancel": "Annuler",
+    "send": "Envoyer l'invitation",
+    "sending": "Envoi en cours...",
+    "successTitle": "Invitation envoyée avec succès",
+    "successMessage": "L'invitation a été envoyée avec succès. L'utilisateur recevra un e-mail et pourra rejoindre après avoir accepté l'invitation.",
+    "close": "Fermer"
+  },
+  "productManagement": {
+    "title": "Gestion des Produits",
+    "description": "Gérez vos produits, votre inventaire et vos catégories."
+  },
+  "paymentplan1": {
+    "nameLabel": "Nom du plan de paiement",
+    "descriptionLabel": "Description",
+    "defaultName": "Paiement 100% anticipé",
+    "defaultDescription": "Le paiement complet est effectué avant la livraison des marchandises.",
+    "cancel": "Annuler",
+    "save": "Enregistrer"
+  },
+  "setting": {
+    "changeAvatar": "Changer l’avatar",
+    "saveChanges": "Enregistrer les modifications",
+    "editAccountInfo": "Modifier les informations",
+    "sectionTitle": "Informations sur l’entreprise",
+    "businessCategory": "Catégorie d’entreprise",
+    "contactPerson": "Personne à contacter",
+    "officeAddress": "Adresse du siège",
+    "taxIdNumber": "Numéro d’identification fiscale",
+    "vatPercentage": "Pourcentage TVA",
+    "product": "Produit frais de Douala",
+    "tax": "Taxe",
+
+    "categories": {
+      "food": "Alimentation et boissons",
+      "retail": "Vente au détail",
+      "wholesale": "Vente en gros",
+      "agribusiness": "Agrobusiness"
+    }
+  },
+  "loadergeneric": {
+    "defaultTitle": "Veuillez patienter...",
+    "defaultMessage": "Nous chargeons la page pour vous"
+  },
+  "setings": {
+    "changeAvatar": "Changer l’avatar",
+    "saveChanges": "Enregistrer les modifications"
+  },
+  "paymentDetails": {
+    "title": "Détails du paiement",
+    "edit": "Modifier les détails du paiement",
+    "methods": {
+      "bank": "Virement bancaire",
+      "cash": "Espèces",
+      "mobile": "Orange Money"
+    },
+    "bankName": "Nom de la banque",
+    "accountNumber": "Numéro de compte",
+    "mobileNumber": "Numéro de paiement mobile",
+    "tax": {
+      "title": "Configuration des taxes",
+      "edit": "Modifier la configuration des taxes",
+      "vatRate": "Taux de TVA (%)",
+      "includeVAT": "Inclure la TVA sur les commandes",
+      "transportRate": "Taux de taxe sur le transport (%)",
+      "includeTransport": "Inclure la taxe de transport sur les commandes",
+      "add": "+ Ajouter une configuration de taxe"
+    },
+    "plans": {
+      "title": "Plans de paiement",
+      "create": "Créer un nouveau plan de paiement",
+      "dialogTitle": "Créer un nouveau plan de paiement",
+      "dialogDesc": "Définissez les détails du nouveau plan de paiement que vous souhaitez proposer. Ce plan sera disponible lors du traitement des commandes clients.",
+      "prepayment": "Prépaiement 100%",
+      "prepaymentDesc": "Le paiement intégral est effectué avant la livraison des marchandises.",
+      "cod": "Paiement à la livraison (COD)",
+      "codDesc": "Le paiement est collecté directement lors de la livraison des marchandises.",
+      "installments": "Paiements mensuels",
+      "installmentsDesc": "Les paiements sont répartis en montants égaux mensuels jusqu'à couverture totale.",
+      "net30": "Paiement à 30 jours",
+      "net30Desc": "Le paiement total est dû dans les 30 jours à compter de la date de la facture.",
+      "net60": "Paiement à 60 jours",
+      "net60Desc": "Le paiement doit être effectué dans les 60 jours suivant la date de facturation.",
+      "net90": "Paiement à 90 jours",
+      "net90Desc": "Le paiement doit être effectué dans les 90 jours suivant la date de facturation.",
+      "net120": "Paiement à 120 jours",
+      "net120Desc": "Le paiement doit être effectué dans les 120 jours suivant la date de facturation."
+    }
+  },
+  "page": {
+    "prev": "Précédent",
+    "next": "Suivant"
+  },
+  "toast": {
+    "successnewpassword": "Mot de passe réinitialisé avec succès.",
+    "errornewpassword": "Une erreur s'est produite, veuillez réessayer.",
+    "successupdatepassword": "Lien de réinitialisation du mot de passe envoyé avec succès.",
+    "errorupdatepassword": "Une erreur est survenue. Veuillez réessayer.",
+    "successclient": "Catégorie créée avec succès.",
+    "errorclient": "Échec de la création de la catégorie. Veuillez réessayer.",
+    "productsuccess": "Produit créé avec succès.",
+    "producterror": "Échec de la création du produit. Veuillez réessayer.",
+    "success": "Le retailer a bien été créé.",
+    "error": "Erreur lors de la création du retailer."
+  },
+  "expensecategory": {
+    "administrative": "Frais administratifs",
+    "reimbursements": "Remboursements",
+    "storage": "Frais de stockage",
+    "exceptional": "Dépenses exceptionnelles",
+    "loading": "Chargement des commandes..",
+    "btn": "Creer un role"
+  },
+  "purchase": {
+    "change": "Changer d'avatar",
+    "delete": "Supprimer",
+    "btnback": "Retour",
+    "title": "Commandes client",
+    "total": "Paiements",
+    "lastOrderDate": "Date dernière commande"
+  },
+  "facture": {
+    "title": "Factures",
+    "client": "Client",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "date": "Date de la commande",
+    "product": "Produits",
+    "quantity": "Quantité",
+    "unitPrice": "Prix unitaire",
+    "subTotal": "Sous-total",
+    "id": "Numéro de facture"
+  },
+  "formdetails": {
+    "customer": "Détails du client",
+    "order": "Informations sur la commande",
+    "orderid": "ID de commande",
+    "orderdate": "Date de la commande",
+    "orderstatus": "Statut de la commande",
+    "ordertotal": "Total de la commande",
+    "orderpayment": "Paiement de la commande",
+    "orderpending": "En attente",
+    "orderpaid": "Payé",
+    "orderfaild": "Échec",
+    "orderpreparation": "En préparation",
+    "ordertransit": "En transit",
+    "orderdelivered": "Livré",
+    "ordercancelled": "Annulé",
+    "orderproduct": "Produits commandés",
+    "orderorganic": "Lot de pommes biologiques",
+    "orderprice": "Prix unitaire",
+    "btncancel": "Annuler",
+    "btnsave": "Enregistrer les modifications",
+    "btninvoice": "Aperçu de la facture"
+  },
+  "transaction": {
+    "type": {
+      "Income": "Revenu",
+      "Expense": "Dépense"
+    },
+    "payment": {
+      "Cash": "Espèces",
+      "Bank Transfer": "Virement bancaire",
+      "Mobile Money": "Mobile Money"
+    },
+    "status": {
+      "Pending": "En attente",
+      "Cleared": "Réglé",
+      "Cancel": "Annulé"
+    },
+    "user": {
+      "account": "Information du compte",
+      "fullname": "Nom complet",
+      "email": "Adresse e-mail",
+      "phone": "Numéro de téléphone",
+      "emailaddress": "Adresse de la compagnie",
+      "accountdetails": "Détails du compte",
+      "date": "date",
+      "clientcategory": "Catégorie de client",
+      "lastinteraction": "Dernière interaction",
+      "accounttype": "Type de compte"
+    }
+  },
+  "cash": {
+    "title": "Entrée de trésorerie",
+    "positive": "Créer une entrée de trésorerie",
+    "inflows": "Flux d'entrées",
+    "outflows": "Flux de sorties"
+  },
+  "user": {
+    "account": "Informations du compte",
+    "fullname": "Nom complet",
+    "email": "Adresse e-mail",
+    "phone": "Numéro de téléphone",
+    "emailaddress": "Adresse de la compagnie",
+    "accountdetails": "Détails du compte",
+    "date": "Date",
+    "clientcategory": "Catégorie de client",
+    "lastinteraction": "Dernière interaction",
+    "accounttype": "Type de compte",
+    "referent": "Personne référente",
+    "referenttel": "Téléphone personne référente"
+  },
+  "loaderreset": {
+    "title": "Réinitialiser le mot de passe",
+    "description": "Entrez votre adresse e-mail pour réinitialiser votre mot de passe.",
+    "btn": "Ajouter une nouvelle commande"
+  }
+}
