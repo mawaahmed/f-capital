@@ -57,7 +57,7 @@ const Navbar = () => {
         } max-w-[1532px] mx-auto `}
       >
         {/* Logo + nav */}
-        <div className="flex justify-between items-center text-base gap-8">
+        <div className="flex justify-between items-center text-base gap-8 text-black">
           {/* Logo */}
           {/* <div className="flex flex-shrink-0 items-center border-right mr-24">
             <img src={logocomplete} alt="logo" width={150} height={66} />
